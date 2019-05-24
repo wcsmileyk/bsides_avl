@@ -1,0 +1,2 @@
+Jul  7 10:55:56 srbarriga sshd(pam_unix)[16660]: authentication failure; logname= uid=0 euid=0 tty=NODEVssh ruser= rhost=192.168.20.111  user=root
+Jul  7 10:59:12 srbarriga vsftpd(pam_unix)[25073]: authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=192.168.20.111

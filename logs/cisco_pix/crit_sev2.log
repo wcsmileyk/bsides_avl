@@ -1,0 +1,5 @@
+%PIX-2-106006: Deny inbound UDP from ***/20031 to ***/20031 on  interface vpn
+%PIX-2-106006: Deny inbound UDP from ***/20031 to ***/20031 on  interface vpn
+%PIX-2-106006: Deny inbound UDP from ***/54481 to ***/1026 on  interface vpn
+%PIX-2-106006: Deny inbound UDP from ***9/20031 to ***/20031 on interface vpn
+%PIX-2-106006: Deny inbound UDP from ***/20031 to ***/20031 on  interface vpn

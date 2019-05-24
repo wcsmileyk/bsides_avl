@@ -1,0 +1,18 @@
+2019-05-09T02:26:15.552040+00:00 ip-10-1-1-176 sshd[3764]: Accepted publickey for ubuntu from 10.1.1.133 port 52286 ssh2: RSA SHA256:8v85gF+YemUUyRXl6qbbEaS/NxZYIMc8h5OCDJIwgKs
+2019-05-09T02:26:15.554176+00:00 ip-10-1-1-176 sshd[3764]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+2019-05-09T04:12:24.046001+00:00 ip-10-1-1-176 sshd[3095]: pam_unix(sshd:session): session closed for user ubuntu
+2019-05-09T04:13:19.342803+00:00 ip-10-1-1-176 sshd[3415]: pam_unix(sshd:session): session closed for user ubuntu
+2019-05-09T04:20:51.950068+00:00 ip-10-1-1-176 sshd[3252]: pam_unix(sshd:session): session closed for user ubuntu
+2019-05-09T04:36:58.606287+00:00 ip-10-1-1-176 sshd[3541]: pam_unix(sshd:session): session closed for user ubuntu
+2019-05-09T04:38:02.094158+00:00 ip-10-1-1-176 sshd[3764]: pam_unix(sshd:session): session closed for user ubuntu
+2019-05-09T22:00:02.862762+00:00 ip-10-1-1-176 sshd[15534]: Accepted publickey for ubuntu from 10.1.1.133 port 54436 ssh2: RSA SHA256:8v85gF+YemUUyRXl6qbbEaS/NxZYIMc8h5OCDJIwgKs
+2019-05-09T22:00:02.863978+00:00 ip-10-1-1-176 sshd[15534]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+2019-05-09T22:26:53.641003+00:00 ip-10-1-1-176 sshd[15676]: Accepted publickey for ubuntu from 10.1.1.133 port 54681 ssh2: RSA SHA256:8v85gF+YemUUyRXl6qbbEaS/NxZYIMc8h5OCDJIwgKs
+2019-05-09T22:26:53.643255+00:00 ip-10-1-1-176 sshd[15676]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+2019-05-09T22:36:03.055719+00:00 ip-10-1-1-176 sshd[15826]: Accepted publickey for ubuntu from 10.1.1.133 port 55055 ssh2: RSA SHA256:8v85gF+YemUUyRXl6qbbEaS/NxZYIMc8h5OCDJIwgKs
+2019-05-09T22:36:03.056969+00:00 ip-10-1-1-176 sshd[15826]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+2019-05-09T22:38:33.885478+00:00 ip-10-1-1-176 sshd[15908]: Received disconnect from 10.1.1.133 port 55055:11: disconnected by user
+2019-05-09T22:38:33.887786+00:00 ip-10-1-1-176 sshd[15908]: Disconnected from user ubuntu 10.1.1.133 port 55055
+2019-05-09T22:38:33.888019+00:00 ip-10-1-1-176 sshd[15826]: pam_unix(sshd:session): session closed for user ubuntu
+2019-05-09T22:40:16.481361+00:00 ip-10-1-1-176 sshd[15980]: Accepted publickey for ubuntu from 10.1.1.133 port 55145 ssh2: RSA SHA256:8v85gF+YemUUyRXl6qbbEaS/NxZYIMc8h5OCDJIwgKs
+2019-05-09T22:40:16.483371+00:00 ip-10-1-1-176 sshd[15980]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)

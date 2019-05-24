@@ -1,0 +1,1 @@
+%PIX-4-410001: Dropped UDP DNS reply from os-to-dmz:192.168.30.2 to outside:192.168.100.2/53; packet length 560 bytes exceeds configured limit of 512 bytes

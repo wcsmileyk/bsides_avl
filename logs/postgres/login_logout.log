@@ -1,0 +1,5 @@
+[2007-08-31 19:22:21.469 ADT] :[unknown] LOG:  connection received: host=192.168.2.99 port=52136
+[2007-08-31 19:22:21.485 ADT] 192.168.2.99:ossecdb LOG:  connection authorized: user=ossec_user database=ossecdb
+[2007-08-31 19:22:22.427 ADT] 192.168.2.99:ossecdb LOG:  disconnection: session time: 0:00:00.95 user=ossec_user database=ossecdb host=192.168.2.99 port=52136
+[2007-09-27 11:02:44.941 ADT] 192.168.2.10:ossecdb ERROR:  relation "lala" does not exist
+[2007-09-27 11:02:46.444 ADT] 192.168.2.10:ossecdb LOG:  disconnection: session time: 0:00:35.79 user=ossec_user database=ossecdb host=192.168.2.10 port=3584

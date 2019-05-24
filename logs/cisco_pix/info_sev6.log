@@ -1,0 +1,2 @@
+%PIX-6-302016: Teardown UDP connection 1042068 for outside:192.168.20.45/53 to inside:192.168.20.208/37989 duration 0:02:10 bytes 185
+%PIX-6-106015: Deny TCP (no connection) from 192.168.2.50/443 to 192.168.20/65 flags RST on interface outside

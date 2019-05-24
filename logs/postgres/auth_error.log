@@ -1,0 +1,2 @@
+[2007-09-01 19:08:49.862 ADT] : LOG:  connection received: host=192.168.2.99 port=37142
+[2007-09-01 19:08:49.869 ADT] 192.168.2.99: FATAL:  password authentication failed for user "ossec_user"

@@ -1,0 +1,6 @@
+Sep 15 16:37:13 myserver userdel[12584]: running USERDEL_PRECMD command - script=/usr/sbin/userdel-pre.local, account=mary, uid=1014, gid=100, home=/home/mary, by=0
+Sep 15 16:37:13 myserver crontab[12586]: (root) DELETE (mary)
+Sep 15 16:37:13 myserver userdel[12584]: account removed from group - account=mary, group=video, gid=33, by=0
+Sep 15 16:37:13 myserver userdel[12584]: account removed from group - account=mary, group=dialout, gid=16, by=0
+Sep 15 16:37:13 myserver userdel[12584]: account deleted - account=mary, uid=1014, by=0
+Sep 15 16:37:13 myserver userdel[12584]: running USERDEL_POSTCMD command - script=/usr/sbin/userdel-post.local, account=mary, uid=1014, gid=100, home=/home/mary, by=0

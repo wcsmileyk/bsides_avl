@@ -1,0 +1,52 @@
+2019-05-09T02:24:51.461322+00:00 ip-10-1-1-176 systemd[1]: Stopping System Logging Service...
+2019-05-09T02:24:51.464331+00:00 ip-10-1-1-176 systemd[1]: Stopped System Logging Service.
+2019-05-09T02:24:51.465181+00:00 ip-10-1-1-176 systemd[1]: Starting System Logging Service...
+2019-05-09T02:24:51.518316+00:00 ip-10-1-1-176 systemd[1]: Started System Logging Service.
+2019-05-09T02:26:15.556264+00:00 ip-10-1-1-176 systemd[1]: Started Session 30 of user ubuntu.
+2019-05-09T04:38:02.104769+00:00 ip-10-1-1-176 systemd[1]: Stopping User Manager for UID 1000...
+2019-05-09T04:38:02.105024+00:00 ip-10-1-1-176 systemd[3097]: Stopped target Default.
+2019-05-09T04:38:02.108034+00:00 ip-10-1-1-176 systemd: pam_unix(systemd-user:session): session closed for user ubuntu
+2019-05-09T04:38:02.108180+00:00 ip-10-1-1-176 systemd[3097]: Stopped target Basic System.
+2019-05-09T04:38:02.108291+00:00 ip-10-1-1-176 systemd[3097]: Stopped target Paths.
+2019-05-09T04:38:02.108392+00:00 ip-10-1-1-176 systemd[3097]: Stopped target Sockets.
+2019-05-09T04:38:02.108485+00:00 ip-10-1-1-176 systemd[3097]: Closed GnuPG cryptographic agent and passphrase cache (access for web browsers).
+2019-05-09T04:38:02.108586+00:00 ip-10-1-1-176 systemd[3097]: Closed GnuPG cryptographic agent and passphrase cache.
+2019-05-09T04:38:02.108751+00:00 ip-10-1-1-176 systemd[3097]: Closed GnuPG network certificate management daemon.
+2019-05-09T04:38:02.108954+00:00 ip-10-1-1-176 systemd[3097]: Closed GnuPG cryptographic agent and passphrase cache (restricted).
+2019-05-09T04:38:02.110694+00:00 ip-10-1-1-176 systemd[3097]: Stopped target Timers.
+2019-05-09T04:38:02.110903+00:00 ip-10-1-1-176 systemd[3097]: Closed GnuPG cryptographic agent (ssh-agent emulation).
+2019-05-09T04:38:02.111240+00:00 ip-10-1-1-176 systemd[3097]: Reached target Shutdown.
+2019-05-09T04:38:02.111490+00:00 ip-10-1-1-176 systemd[3097]: Starting Exit the Session...
+2019-05-09T04:38:02.111649+00:00 ip-10-1-1-176 systemd[3097]: Received SIGRTMIN+24 from PID 3909 (kill).
+2019-05-09T04:38:02.112369+00:00 ip-10-1-1-176 systemd[1]: user@1000.service: Killing process 3909 (kill) with signal SIGKILL.
+2019-05-09T04:38:02.112590+00:00 ip-10-1-1-176 systemd[1]: Stopped User Manager for UID 1000.
+2019-05-09T04:38:02.114351+00:00 ip-10-1-1-176 systemd[1]: Removed slice User Slice of ubuntu.
+2019-05-09T05:00:44.722509+00:00 ip-10-1-1-176 systemd[1]: Starting Daily apt download activities...
+2019-05-09T05:01:18.559066+00:00 ip-10-1-1-176 systemd[1]: Started Daily apt download activities.
+2019-05-09T06:01:44.726102+00:00 ip-10-1-1-176 systemd[1]: Starting Daily apt upgrade and clean activities...
+2019-05-09T06:01:45.562200+00:00 ip-10-1-1-176 systemd[1]: Started Daily apt upgrade and clean activities.
+2019-05-09T12:31:34.723853+00:00 ip-10-1-1-176 systemd[1]: Starting Cleanup of Temporary Directories...
+2019-05-09T12:31:34.735802+00:00 ip-10-1-1-176 systemd[1]: Started Cleanup of Temporary Directories.
+2019-05-09T13:04:34.723995+00:00 ip-10-1-1-176 systemd[1]: Starting Message of the Day...
+2019-05-09T13:05:34.770468+00:00 ip-10-1-1-176 systemd[1]: Started Message of the Day.
+2019-05-09T16:12:44.722551+00:00 ip-10-1-1-176 systemd[1]: Starting Daily apt download activities...
+2019-05-09T16:12:45.191586+00:00 ip-10-1-1-176 systemd[1]: Started Daily apt download activities.
+2019-05-09T22:00:02.868237+00:00 ip-10-1-1-176 systemd[1]: Created slice User Slice of ubuntu.
+2019-05-09T22:00:02.877417+00:00 ip-10-1-1-176 systemd[1]: Starting User Manager for UID 1000...
+2019-05-09T22:00:02.877679+00:00 ip-10-1-1-176 systemd: pam_unix(systemd-user:session): session opened for user ubuntu by (uid=0)
+2019-05-09T22:00:02.880108+00:00 ip-10-1-1-176 systemd[1]: Started Session 52 of user ubuntu.
+2019-05-09T22:00:02.898409+00:00 ip-10-1-1-176 systemd[15536]: Listening on GnuPG cryptographic agent and passphrase cache.
+2019-05-09T22:00:02.902349+00:00 ip-10-1-1-176 systemd[15536]: Reached target Timers.
+2019-05-09T22:00:02.902490+00:00 ip-10-1-1-176 systemd[15536]: Reached target Paths.
+2019-05-09T22:00:02.902595+00:00 ip-10-1-1-176 systemd[15536]: Listening on GnuPG network certificate management daemon.
+2019-05-09T22:00:02.902702+00:00 ip-10-1-1-176 systemd[15536]: Listening on GnuPG cryptographic agent and passphrase cache (access for web browsers).
+2019-05-09T22:00:02.902796+00:00 ip-10-1-1-176 systemd[15536]: Listening on GnuPG cryptographic agent and passphrase cache (restricted).
+2019-05-09T22:00:02.902894+00:00 ip-10-1-1-176 systemd[15536]: Listening on GnuPG cryptographic agent (ssh-agent emulation).
+2019-05-09T22:00:02.902985+00:00 ip-10-1-1-176 systemd[15536]: Reached target Sockets.
+2019-05-09T22:00:02.903077+00:00 ip-10-1-1-176 systemd[15536]: Reached target Basic System.
+2019-05-09T22:00:02.903168+00:00 ip-10-1-1-176 systemd[1]: Started User Manager for UID 1000.
+2019-05-09T22:00:02.903288+00:00 ip-10-1-1-176 systemd[15536]: Reached target Default.
+2019-05-09T22:00:02.903420+00:00 ip-10-1-1-176 systemd[15536]: Startup finished in 23ms.
+2019-05-09T22:26:53.645347+00:00 ip-10-1-1-176 systemd[1]: Started Session 55 of user ubuntu.
+2019-05-09T22:36:03.059473+00:00 ip-10-1-1-176 systemd[1]: Started Session 56 of user ubuntu.
+2019-05-09T22:40:16.485372+00:00 ip-10-1-1-176 systemd[1]: Started Session 57 of user ubuntu.

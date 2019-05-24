@@ -1,0 +1,3 @@
+May 21 20:22:28 slacker2 sshd[8813]: Accepted password for root from 192.168.20.185 port 1066 ssh2
+May 21 20:22:28 sol2 sshd[23857]: [ID 702911 auth.notice] User test1, coming from 192.168.2.185,  -  authenticated.
+Oct 11 08:05:46 hostname auth|security:info sshd[323808]: Accepted publickey for usr1 from 2.3.4.5 port 37909 ssh2

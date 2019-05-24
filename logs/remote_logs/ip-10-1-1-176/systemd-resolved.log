@@ -1,0 +1,12 @@
+2019-05-09T02:24:51.489412+00:00 ip-10-1-1-176 systemd-resolved[627]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+2019-05-09T02:24:51.513604+00:00 ip-10-1-1-176 systemd-resolved[627]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+2019-05-09T02:25:02.685578+00:00 ip-10-1-1-176 systemd-resolved[627]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+2019-05-09T02:26:20.996985+00:00 ip-10-1-1-176 systemd-resolved[627]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+2019-05-09T02:26:20.998746+00:00 ip-10-1-1-176 systemd-resolved[627]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+2019-05-09T05:00:44.998427+00:00 ip-10-1-1-176 systemd-resolved[627]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+2019-05-09T05:00:44.999295+00:00 ip-10-1-1-176 systemd-resolved[627]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+2019-05-09T22:27:04.247242+00:00 ip-10-1-1-176 systemd-resolved[627]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+2019-05-09T22:27:04.255689+00:00 ip-10-1-1-176 systemd-resolved[627]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+2019-05-09T22:36:07.575470+00:00 ip-10-1-1-176 systemd-resolved[627]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+2019-05-09T22:36:07.576329+00:00 ip-10-1-1-176 systemd-resolved[627]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+2019-05-09T22:40:23.001488+00:00 ip-10-1-1-176 systemd-resolved[627]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.

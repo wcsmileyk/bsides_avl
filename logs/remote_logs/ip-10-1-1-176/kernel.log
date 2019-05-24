@@ -1,0 +1,2 @@
+2019-05-09T22:36:34.677135+00:00 ip-10-1-1-176 kernel: [123642.724329] audit: type=1400 audit(1557441394.672:25): apparmor="DENIED" operation="capable" profile="/usr/bin/man" pid=15941 comm="man" capability=2  capname="dac_read_search"
+2019-05-09T22:36:34.677157+00:00 ip-10-1-1-176 kernel: [123642.724332] audit: type=1400 audit(1557441394.672:26): apparmor="DENIED" operation="capable" profile="/usr/bin/man" pid=15941 comm="man" capability=1  capname="dac_override"

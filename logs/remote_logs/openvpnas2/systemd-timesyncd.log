@@ -1,0 +1,131 @@
+2019-05-09T02:46:18+00:00 openvpnas2 systemd-timesyncd[30200]: Network configuration changed, trying to establish connection.
+2019-05-09T02:46:18+00:00 openvpnas2 systemd-timesyncd[30200]: Synchronized to time server 91.189.91.157:123 (ntp.ubuntu.com).
+2019-05-09T02:46:18+00:00 openvpnas2 systemd-timesyncd[30200]: Network configuration changed, trying to establish connection.
+2019-05-09T02:46:28+00:00 openvpnas2 systemd-timesyncd[30200]: Timed out waiting for reply from 91.189.91.157:123 (ntp.ubuntu.com).
+2019-05-09T02:46:28+00:00 openvpnas2 systemd-timesyncd[30200]: Synchronized to time server 91.189.94.4:123 (ntp.ubuntu.com).
+2019-05-09T03:16:19+00:00 openvpnas2 systemd-timesyncd[30200]: Network configuration changed, trying to establish connection.
+2019-05-09T03:16:29+00:00 openvpnas2 systemd-timesyncd[30200]: Timed out waiting for reply from 91.189.94.4:123 (ntp.ubuntu.com).
+2019-05-09T03:16:29+00:00 openvpnas2 systemd-timesyncd[30200]: Synchronized to time server 91.189.89.198:123 (ntp.ubuntu.com).
+2019-05-09T03:46:19+00:00 openvpnas2 systemd-timesyncd[30200]: Network configuration changed, trying to establish connection.
+2019-05-09T03:46:29+00:00 openvpnas2 systemd-timesyncd[30200]: Timed out waiting for reply from 91.189.89.198:123 (ntp.ubuntu.com).
+2019-05-09T04:20:37+00:00 openvpnas2 systemd-timesyncd[30200]: Synchronized to time server 91.189.91.157:123 (ntp.ubuntu.com).
+2019-05-09T04:46:18+00:00 openvpnas2 systemd-timesyncd[30200]: Network configuration changed, trying to establish connection.
+2019-05-09T04:46:28+00:00 openvpnas2 systemd-timesyncd[30200]: Timed out waiting for reply from 91.189.91.157:123 (ntp.ubuntu.com).
+2019-05-09T04:46:28+00:00 openvpnas2 systemd-timesyncd[30200]: Synchronized to time server 91.189.94.4:123 (ntp.ubuntu.com).
+2019-05-09T05:16:16+00:00 openvpnas2 systemd-timesyncd[30200]: Network configuration changed, trying to establish connection.
+2019-05-09T05:16:26+00:00 openvpnas2 systemd-timesyncd[30200]: Timed out waiting for reply from 91.189.94.4:123 (ntp.ubuntu.com).
+2019-05-09T05:16:26+00:00 openvpnas2 systemd-timesyncd[30200]: Synchronized to time server 91.189.89.198:123 (ntp.ubuntu.com).
+2019-05-09T05:46:16+00:00 openvpnas2 systemd-timesyncd[30200]: Network configuration changed, trying to establish connection.
+2019-05-09T05:46:27+00:00 openvpnas2 systemd-timesyncd[30200]: Timed out waiting for reply from 91.189.89.198:123 (ntp.ubuntu.com).
+2019-05-09T05:46:27+00:00 openvpnas2 systemd-timesyncd[30200]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+2019-05-09T06:16:16+00:00 openvpnas2 systemd-timesyncd[30200]: Network configuration changed, trying to establish connection.
+2019-05-09T06:16:16+00:00 openvpnas2 systemd-timesyncd[30200]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+2019-05-09T06:16:16+00:00 openvpnas2 systemd-timesyncd[30200]: Network configuration changed, trying to establish connection.
+2019-05-09T06:16:26+00:00 openvpnas2 systemd-timesyncd[30200]: Timed out waiting for reply from 91.189.89.199:123 (ntp.ubuntu.com).
+2019-05-09T06:50:45+00:00 openvpnas2 systemd-timesyncd[30200]: Timed out waiting for reply from 91.189.89.199:123 (ntp.ubuntu.com).
+2019-05-09T06:50:55+00:00 openvpnas2 systemd-timesyncd[30200]: Timed out waiting for reply from 91.189.91.157:123 (ntp.ubuntu.com).
+2019-05-09T06:50:55+00:00 openvpnas2 systemd-timesyncd[30200]: Synchronized to time server 91.189.94.4:123 (ntp.ubuntu.com).
+2019-05-09T07:16:15+00:00 openvpnas2 systemd-timesyncd[30200]: Network configuration changed, trying to establish connection.
+2019-05-09T07:16:25+00:00 openvpnas2 systemd-timesyncd[30200]: Timed out waiting for reply from 91.189.94.4:123 (ntp.ubuntu.com).
+2019-05-09T07:16:25+00:00 openvpnas2 systemd-timesyncd[30200]: Synchronized to time server 91.189.89.198:123 (ntp.ubuntu.com).
+2019-05-09T07:46:14+00:00 openvpnas2 systemd-timesyncd[30200]: Network configuration changed, trying to establish connection.
+2019-05-09T07:46:14+00:00 openvpnas2 systemd-timesyncd[30200]: Synchronized to time server 91.189.89.198:123 (ntp.ubuntu.com).
+2019-05-09T07:46:16+00:00 openvpnas2 systemd-timesyncd[30200]: Network configuration changed, trying to establish connection.
+2019-05-09T07:46:26+00:00 openvpnas2 systemd-timesyncd[30200]: Timed out waiting for reply from 91.189.89.198:123 (ntp.ubuntu.com).
+2019-05-09T08:20:34+00:00 openvpnas2 systemd-timesyncd[30200]: Synchronized to time server 91.189.91.157:123 (ntp.ubuntu.com).
+2019-05-09T08:46:13+00:00 openvpnas2 systemd-timesyncd[30200]: Network configuration changed, trying to establish connection.
+2019-05-09T08:46:13+00:00 openvpnas2 systemd-timesyncd[30200]: Synchronized to time server 91.189.91.157:123 (ntp.ubuntu.com).
+2019-05-09T08:46:15+00:00 openvpnas2 systemd-timesyncd[30200]: Network configuration changed, trying to establish connection.
+2019-05-09T08:46:15+00:00 openvpnas2 systemd-timesyncd[30200]: Synchronized to time server 91.189.91.157:123 (ntp.ubuntu.com).
+2019-05-09T09:16:13+00:00 openvpnas2 systemd-timesyncd[30200]: Network configuration changed, trying to establish connection.
+2019-05-09T09:16:13+00:00 openvpnas2 systemd-timesyncd[30200]: Synchronized to time server 91.189.91.157:123 (ntp.ubuntu.com).
+2019-05-09T09:16:15+00:00 openvpnas2 systemd-timesyncd[30200]: Network configuration changed, trying to establish connection.
+2019-05-09T09:16:15+00:00 openvpnas2 systemd-timesyncd[30200]: Synchronized to time server 91.189.91.157:123 (ntp.ubuntu.com).
+2019-05-09T09:46:13+00:00 openvpnas2 systemd-timesyncd[30200]: Network configuration changed, trying to establish connection.
+2019-05-09T09:46:23+00:00 openvpnas2 systemd-timesyncd[30200]: Timed out waiting for reply from 91.189.91.157:123 (ntp.ubuntu.com).
+2019-05-09T09:46:23+00:00 openvpnas2 systemd-timesyncd[30200]: Synchronized to time server 91.189.94.4:123 (ntp.ubuntu.com).
+2019-05-09T10:16:12+00:00 openvpnas2 systemd-timesyncd[30200]: Network configuration changed, trying to establish connection.
+2019-05-09T10:16:12+00:00 openvpnas2 systemd-timesyncd[30200]: Synchronized to time server 91.189.94.4:123 (ntp.ubuntu.com).
+2019-05-09T10:16:14+00:00 openvpnas2 systemd-timesyncd[30200]: Network configuration changed, trying to establish connection.
+2019-05-09T10:16:14+00:00 openvpnas2 systemd-timesyncd[30200]: Synchronized to time server 91.189.94.4:123 (ntp.ubuntu.com).
+2019-05-09T10:46:11+00:00 openvpnas2 systemd-timesyncd[30200]: Network configuration changed, trying to establish connection.
+2019-05-09T10:46:21+00:00 openvpnas2 systemd-timesyncd[30200]: Timed out waiting for reply from 91.189.94.4:123 (ntp.ubuntu.com).
+2019-05-09T10:46:21+00:00 openvpnas2 systemd-timesyncd[30200]: Synchronized to time server 91.189.89.198:123 (ntp.ubuntu.com).
+2019-05-09T11:16:10+00:00 openvpnas2 systemd-timesyncd[30200]: Network configuration changed, trying to establish connection.
+2019-05-09T11:16:20+00:00 openvpnas2 systemd-timesyncd[30200]: Timed out waiting for reply from 91.189.89.198:123 (ntp.ubuntu.com).
+2019-05-09T11:16:20+00:00 openvpnas2 systemd-timesyncd[30200]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+2019-05-09T11:46:09+00:00 openvpnas2 systemd-timesyncd[30200]: Network configuration changed, trying to establish connection.
+2019-05-09T11:46:09+00:00 openvpnas2 systemd-timesyncd[30200]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+2019-05-09T11:46:12+00:00 openvpnas2 systemd-timesyncd[30200]: Network configuration changed, trying to establish connection.
+2019-05-09T11:46:12+00:00 openvpnas2 systemd-timesyncd[30200]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+2019-05-09T12:16:08+00:00 openvpnas2 systemd-timesyncd[30200]: Network configuration changed, trying to establish connection.
+2019-05-09T12:16:08+00:00 openvpnas2 systemd-timesyncd[30200]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+2019-05-09T12:16:11+00:00 openvpnas2 systemd-timesyncd[30200]: Network configuration changed, trying to establish connection.
+2019-05-09T12:16:21+00:00 openvpnas2 systemd-timesyncd[30200]: Timed out waiting for reply from 91.189.89.199:123 (ntp.ubuntu.com).
+2019-05-09T12:50:39+00:00 openvpnas2 systemd-timesyncd[30200]: Timed out waiting for reply from 91.189.89.199:123 (ntp.ubuntu.com).
+2019-05-09T12:50:39+00:00 openvpnas2 systemd-timesyncd[30200]: Synchronized to time server 91.189.91.157:123 (ntp.ubuntu.com).
+2019-05-09T13:16:08+00:00 openvpnas2 systemd-timesyncd[30200]: Network configuration changed, trying to establish connection.
+2019-05-09T13:16:08+00:00 openvpnas2 systemd-timesyncd[30200]: Synchronized to time server 91.189.91.157:123 (ntp.ubuntu.com).
+2019-05-09T13:16:08+00:00 openvpnas2 systemd-timesyncd[30200]: Network configuration changed, trying to establish connection.
+2019-05-09T13:16:18+00:00 openvpnas2 systemd-timesyncd[30200]: Timed out waiting for reply from 91.189.91.157:123 (ntp.ubuntu.com).
+2019-05-09T13:16:18+00:00 openvpnas2 systemd-timesyncd[30200]: Synchronized to time server 91.189.94.4:123 (ntp.ubuntu.com).
+2019-05-09T13:46:07+00:00 openvpnas2 systemd-timesyncd[30200]: Network configuration changed, trying to establish connection.
+2019-05-09T13:46:07+00:00 openvpnas2 systemd-timesyncd[30200]: Synchronized to time server 91.189.94.4:123 (ntp.ubuntu.com).
+2019-05-09T13:46:08+00:00 openvpnas2 systemd-timesyncd[30200]: Network configuration changed, trying to establish connection.
+2019-05-09T13:46:08+00:00 openvpnas2 systemd-timesyncd[30200]: Synchronized to time server 91.189.94.4:123 (ntp.ubuntu.com).
+2019-05-09T14:16:06+00:00 openvpnas2 systemd-timesyncd[30200]: Network configuration changed, trying to establish connection.
+2019-05-09T14:16:16+00:00 openvpnas2 systemd-timesyncd[30200]: Timed out waiting for reply from 91.189.94.4:123 (ntp.ubuntu.com).
+2019-05-09T14:16:16+00:00 openvpnas2 systemd-timesyncd[30200]: Synchronized to time server 91.189.89.198:123 (ntp.ubuntu.com).
+2019-05-09T14:46:05+00:00 openvpnas2 systemd-timesyncd[30200]: Network configuration changed, trying to establish connection.
+2019-05-09T14:46:05+00:00 openvpnas2 systemd-timesyncd[30200]: Synchronized to time server 91.189.89.198:123 (ntp.ubuntu.com).
+2019-05-09T14:46:06+00:00 openvpnas2 systemd-timesyncd[30200]: Network configuration changed, trying to establish connection.
+2019-05-09T14:46:06+00:00 openvpnas2 systemd-timesyncd[30200]: Synchronized to time server 91.189.89.198:123 (ntp.ubuntu.com).
+2019-05-09T15:16:04+00:00 openvpnas2 systemd-timesyncd[30200]: Network configuration changed, trying to establish connection.
+2019-05-09T15:16:14+00:00 openvpnas2 systemd-timesyncd[30200]: Timed out waiting for reply from 91.189.89.198:123 (ntp.ubuntu.com).
+2019-05-09T15:50:33+00:00 openvpnas2 systemd-timesyncd[30200]: Timed out waiting for reply from 91.189.89.199:123 (ntp.ubuntu.com).
+2019-05-09T15:50:33+00:00 openvpnas2 systemd-timesyncd[30200]: Synchronized to time server 91.189.91.157:123 (ntp.ubuntu.com).
+2019-05-09T16:16:03+00:00 openvpnas2 systemd-timesyncd[30200]: Network configuration changed, trying to establish connection.
+2019-05-09T16:16:03+00:00 openvpnas2 systemd-timesyncd[30200]: Synchronized to time server 91.189.91.157:123 (ntp.ubuntu.com).
+2019-05-09T16:16:06+00:00 openvpnas2 systemd-timesyncd[30200]: Network configuration changed, trying to establish connection.
+2019-05-09T16:16:06+00:00 openvpnas2 systemd-timesyncd[30200]: Synchronized to time server 91.189.91.157:123 (ntp.ubuntu.com).
+2019-05-09T16:46:02+00:00 openvpnas2 systemd-timesyncd[30200]: Network configuration changed, trying to establish connection.
+2019-05-09T16:46:02+00:00 openvpnas2 systemd-timesyncd[30200]: Synchronized to time server 91.189.91.157:123 (ntp.ubuntu.com).
+2019-05-09T16:46:07+00:00 openvpnas2 systemd-timesyncd[30200]: Network configuration changed, trying to establish connection.
+2019-05-09T16:46:17+00:00 openvpnas2 systemd-timesyncd[30200]: Timed out waiting for reply from 91.189.91.157:123 (ntp.ubuntu.com).
+2019-05-09T16:46:17+00:00 openvpnas2 systemd-timesyncd[30200]: Synchronized to time server 91.189.94.4:123 (ntp.ubuntu.com).
+2019-05-09T17:16:02+00:00 openvpnas2 systemd-timesyncd[30200]: Network configuration changed, trying to establish connection.
+2019-05-09T17:16:02+00:00 openvpnas2 systemd-timesyncd[30200]: Synchronized to time server 91.189.94.4:123 (ntp.ubuntu.com).
+2019-05-09T17:16:07+00:00 openvpnas2 systemd-timesyncd[30200]: Network configuration changed, trying to establish connection.
+2019-05-09T17:16:17+00:00 openvpnas2 systemd-timesyncd[30200]: Timed out waiting for reply from 91.189.94.4:123 (ntp.ubuntu.com).
+2019-05-09T17:16:17+00:00 openvpnas2 systemd-timesyncd[30200]: Synchronized to time server 91.189.89.198:123 (ntp.ubuntu.com).
+2019-05-09T17:46:02+00:00 openvpnas2 systemd-timesyncd[30200]: Network configuration changed, trying to establish connection.
+2019-05-09T17:46:12+00:00 openvpnas2 systemd-timesyncd[30200]: Timed out waiting for reply from 91.189.89.198:123 (ntp.ubuntu.com).
+2019-05-09T18:20:20+00:00 openvpnas2 systemd-timesyncd[30200]: Synchronized to time server 91.189.94.4:123 (ntp.ubuntu.com).
+2019-05-09T18:46:01+00:00 openvpnas2 systemd-timesyncd[30200]: Network configuration changed, trying to establish connection.
+2019-05-09T18:46:01+00:00 openvpnas2 systemd-timesyncd[30200]: Synchronized to time server 91.189.94.4:123 (ntp.ubuntu.com).
+2019-05-09T18:46:06+00:00 openvpnas2 systemd-timesyncd[30200]: Network configuration changed, trying to establish connection.
+2019-05-09T18:46:06+00:00 openvpnas2 systemd-timesyncd[30200]: Synchronized to time server 91.189.94.4:123 (ntp.ubuntu.com).
+2019-05-09T19:16:00+00:00 openvpnas2 systemd-timesyncd[30200]: Network configuration changed, trying to establish connection.
+2019-05-09T19:16:00+00:00 openvpnas2 systemd-timesyncd[30200]: Synchronized to time server 91.189.94.4:123 (ntp.ubuntu.com).
+2019-05-09T19:16:05+00:00 openvpnas2 systemd-timesyncd[30200]: Network configuration changed, trying to establish connection.
+2019-05-09T19:16:06+00:00 openvpnas2 systemd-timesyncd[30200]: Synchronized to time server 91.189.94.4:123 (ntp.ubuntu.com).
+2019-05-09T19:45:59+00:00 openvpnas2 systemd-timesyncd[30200]: Network configuration changed, trying to establish connection.
+2019-05-09T19:45:59+00:00 openvpnas2 systemd-timesyncd[30200]: Synchronized to time server 91.189.94.4:123 (ntp.ubuntu.com).
+2019-05-09T19:46:06+00:00 openvpnas2 systemd-timesyncd[30200]: Network configuration changed, trying to establish connection.
+2019-05-09T19:46:06+00:00 openvpnas2 systemd-timesyncd[30200]: Synchronized to time server 91.189.94.4:123 (ntp.ubuntu.com).
+2019-05-09T20:15:57+00:00 openvpnas2 systemd-timesyncd[30200]: Network configuration changed, trying to establish connection.
+2019-05-09T20:16:08+00:00 openvpnas2 systemd-timesyncd[30200]: Timed out waiting for reply from 91.189.94.4:123 (ntp.ubuntu.com).
+2019-05-09T20:16:08+00:00 openvpnas2 systemd-timesyncd[30200]: Synchronized to time server 91.189.89.198:123 (ntp.ubuntu.com).
+2019-05-09T20:45:57+00:00 openvpnas2 systemd-timesyncd[30200]: Network configuration changed, trying to establish connection.
+2019-05-09T20:45:57+00:00 openvpnas2 systemd-timesyncd[30200]: Synchronized to time server 91.189.89.198:123 (ntp.ubuntu.com).
+2019-05-09T20:46:06+00:00 openvpnas2 systemd-timesyncd[30200]: Network configuration changed, trying to establish connection.
+2019-05-09T20:46:06+00:00 openvpnas2 systemd-timesyncd[30200]: Synchronized to time server 91.189.89.198:123 (ntp.ubuntu.com).
+2019-05-09T21:15:56+00:00 openvpnas2 systemd-timesyncd[30200]: Network configuration changed, trying to establish connection.
+2019-05-09T21:16:06+00:00 openvpnas2 systemd-timesyncd[30200]: Timed out waiting for reply from 91.189.89.198:123 (ntp.ubuntu.com).
+2019-05-09T21:16:06+00:00 openvpnas2 systemd-timesyncd[30200]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+2019-05-09T21:45:55+00:00 openvpnas2 systemd-timesyncd[30200]: Network configuration changed, trying to establish connection.
+2019-05-09T21:45:55+00:00 openvpnas2 systemd-timesyncd[30200]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).
+2019-05-09T21:46:05+00:00 openvpnas2 systemd-timesyncd[30200]: Network configuration changed, trying to establish connection.
+2019-05-09T21:46:15+00:00 openvpnas2 systemd-timesyncd[30200]: Timed out waiting for reply from 91.189.89.199:123 (ntp.ubuntu.com).
+2019-05-09T21:46:25+00:00 openvpnas2 systemd-timesyncd[30200]: Timed out waiting for reply from 91.189.91.157:123 (ntp.ubuntu.com).
+2019-05-09T22:20:34+00:00 openvpnas2 systemd-timesyncd[30200]: Synchronized to time server 91.189.89.199:123 (ntp.ubuntu.com).

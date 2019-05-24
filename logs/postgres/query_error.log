@@ -1,0 +1,3 @@
+[2007-08-31 19:17:42.128 ADT] 192.168.2.99:test ERROR:  relation "alertaaa" does not exist
+[2007-08-31 19:17:46.375 ADT] 192.168.2.99:test ERROR:  syntax error at or near "a" at character 1
+[2007-09-27 11:02:44.941 ADT] 192.168.2.10:ossecdb ERROR:  relation "lala" does not exist

@@ -1,0 +1,4 @@
+Jul  7 10:51:24 srbarriga su(pam_unix)[14592]: session opened for user test2 by (uid=10101)
+Jul  7 10:52:14 srbarriga sshd(pam_unix)[17365]: session opened for user test by (uid=508)
+Nov 17 21:41:22 localhost su[8060]: (pam_unix) session opened for user root by (uid=0)
+Nov 11 22:46:29 localhost vsftpd: pam_unix(vsftpd:auth): authentication failure; logname= uid=0 euid=0 tty= ruser= rhost=1.2.3.4

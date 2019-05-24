@@ -1,0 +1,66 @@
+2019-05-09T03:17:01.449822+00:00 ip-10-1-1-176 CRON[3887]: pam_unix(cron:session): session opened for user root by (uid=0)
+2019-05-09T03:17:01.450655+00:00 ip-10-1-1-176 CRON[3888]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+2019-05-09T03:17:01.452172+00:00 ip-10-1-1-176 CRON[3887]: pam_unix(cron:session): session closed for user root
+2019-05-09T04:17:01.466755+00:00 ip-10-1-1-176 CRON[3899]: pam_unix(cron:session): session opened for user root by (uid=0)
+2019-05-09T04:17:01.469896+00:00 ip-10-1-1-176 CRON[3900]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+2019-05-09T04:17:01.470228+00:00 ip-10-1-1-176 CRON[3899]: pam_unix(cron:session): session closed for user root
+2019-05-09T04:24:01.473946+00:00 ip-10-1-1-176 CRON[3904]: pam_unix(cron:session): session opened for user root by (uid=0)
+2019-05-09T04:24:01.476549+00:00 ip-10-1-1-176 CRON[3905]: (root) CMD (   test -x /etc/cron.daily/popularity-contest && /etc/cron.daily/popularity-contest --crond)
+2019-05-09T04:24:01.478690+00:00 ip-10-1-1-176 CRON[3904]: pam_unix(cron:session): session closed for user root
+2019-05-09T05:17:01.491857+00:00 ip-10-1-1-176 CRON[4012]: pam_unix(cron:session): session opened for user root by (uid=0)
+2019-05-09T05:17:01.494349+00:00 ip-10-1-1-176 CRON[4013]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+2019-05-09T05:17:01.494404+00:00 ip-10-1-1-176 CRON[4012]: pam_unix(cron:session): session closed for user root
+2019-05-09T06:17:01.512903+00:00 ip-10-1-1-176 CRON[4119]: pam_unix(cron:session): session opened for user root by (uid=0)
+2019-05-09T06:17:01.513715+00:00 ip-10-1-1-176 CRON[4120]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+2019-05-09T06:17:01.515209+00:00 ip-10-1-1-176 CRON[4119]: pam_unix(cron:session): session closed for user root
+2019-05-09T06:25:01.527939+00:00 ip-10-1-1-176 CRON[4123]: pam_unix(cron:session): session opened for user root by (uid=0)
+2019-05-09T06:25:01.530776+00:00 ip-10-1-1-176 CRON[4124]: (root) CMD (test -x /usr/sbin/anacron || ( cd / && run-parts --report /etc/cron.daily ))
+2019-05-09T06:25:35.635263+00:00 ip-10-1-1-176 CRON[4123]: pam_unix(cron:session): session closed for user root
+2019-05-09T07:17:01.648400+00:00 ip-10-1-1-176 CRON[15238]: pam_unix(cron:session): session opened for user root by (uid=0)
+2019-05-09T07:17:01.651126+00:00 ip-10-1-1-176 CRON[15239]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+2019-05-09T07:17:01.651183+00:00 ip-10-1-1-176 CRON[15238]: pam_unix(cron:session): session closed for user root
+2019-05-09T08:17:01.665221+00:00 ip-10-1-1-176 CRON[15249]: pam_unix(cron:session): session opened for user root by (uid=0)
+2019-05-09T08:17:01.667375+00:00 ip-10-1-1-176 CRON[15250]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+2019-05-09T08:17:01.667575+00:00 ip-10-1-1-176 CRON[15249]: pam_unix(cron:session): session closed for user root
+2019-05-09T09:17:01.682356+00:00 ip-10-1-1-176 CRON[15259]: pam_unix(cron:session): session opened for user root by (uid=0)
+2019-05-09T09:17:01.683111+00:00 ip-10-1-1-176 CRON[15260]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+2019-05-09T09:17:01.684607+00:00 ip-10-1-1-176 CRON[15259]: pam_unix(cron:session): session closed for user root
+2019-05-09T10:17:01.699166+00:00 ip-10-1-1-176 CRON[15269]: pam_unix(cron:session): session opened for user root by (uid=0)
+2019-05-09T10:17:01.701480+00:00 ip-10-1-1-176 CRON[15270]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+2019-05-09T10:17:01.701748+00:00 ip-10-1-1-176 CRON[15269]: pam_unix(cron:session): session closed for user root
+2019-05-09T11:17:01.718480+00:00 ip-10-1-1-176 CRON[15281]: pam_unix(cron:session): session opened for user root by (uid=0)
+2019-05-09T11:17:01.719293+00:00 ip-10-1-1-176 CRON[15282]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+2019-05-09T11:17:01.720801+00:00 ip-10-1-1-176 CRON[15281]: pam_unix(cron:session): session closed for user root
+2019-05-09T12:17:01.739081+00:00 ip-10-1-1-176 CRON[15292]: pam_unix(cron:session): session opened for user root by (uid=0)
+2019-05-09T12:17:01.748325+00:00 ip-10-1-1-176 CRON[15293]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+2019-05-09T12:17:01.748382+00:00 ip-10-1-1-176 CRON[15292]: pam_unix(cron:session): session closed for user root
+2019-05-09T13:17:01.755666+00:00 ip-10-1-1-176 CRON[15368]: pam_unix(cron:session): session opened for user root by (uid=0)
+2019-05-09T13:17:01.756424+00:00 ip-10-1-1-176 CRON[15369]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+2019-05-09T13:17:01.757953+00:00 ip-10-1-1-176 CRON[15368]: pam_unix(cron:session): session closed for user root
+2019-05-09T14:17:01.772495+00:00 ip-10-1-1-176 CRON[15379]: pam_unix(cron:session): session opened for user root by (uid=0)
+2019-05-09T14:17:01.773331+00:00 ip-10-1-1-176 CRON[15380]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+2019-05-09T14:17:01.774837+00:00 ip-10-1-1-176 CRON[15379]: pam_unix(cron:session): session closed for user root
+2019-05-09T15:17:01.789526+00:00 ip-10-1-1-176 CRON[15390]: pam_unix(cron:session): session opened for user root by (uid=0)
+2019-05-09T15:17:01.791792+00:00 ip-10-1-1-176 CRON[15391]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+2019-05-09T15:17:01.791947+00:00 ip-10-1-1-176 CRON[15390]: pam_unix(cron:session): session closed for user root
+2019-05-09T16:17:01.806571+00:00 ip-10-1-1-176 CRON[15476]: pam_unix(cron:session): session opened for user root by (uid=0)
+2019-05-09T16:17:01.808781+00:00 ip-10-1-1-176 CRON[15477]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+2019-05-09T16:17:01.808989+00:00 ip-10-1-1-176 CRON[15476]: pam_unix(cron:session): session closed for user root
+2019-05-09T17:17:01.825230+00:00 ip-10-1-1-176 CRON[15486]: pam_unix(cron:session): session opened for user root by (uid=0)
+2019-05-09T17:17:01.833433+00:00 ip-10-1-1-176 CRON[15487]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+2019-05-09T17:17:01.833498+00:00 ip-10-1-1-176 CRON[15486]: pam_unix(cron:session): session closed for user root
+2019-05-09T18:17:01.845858+00:00 ip-10-1-1-176 CRON[15495]: pam_unix(cron:session): session opened for user root by (uid=0)
+2019-05-09T18:17:01.846629+00:00 ip-10-1-1-176 CRON[15496]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+2019-05-09T18:17:01.848118+00:00 ip-10-1-1-176 CRON[15495]: pam_unix(cron:session): session closed for user root
+2019-05-09T19:17:01.862886+00:00 ip-10-1-1-176 CRON[15505]: pam_unix(cron:session): session opened for user root by (uid=0)
+2019-05-09T19:17:01.865945+00:00 ip-10-1-1-176 CRON[15506]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+2019-05-09T19:17:01.866011+00:00 ip-10-1-1-176 CRON[15505]: pam_unix(cron:session): session closed for user root
+2019-05-09T20:17:01.879571+00:00 ip-10-1-1-176 CRON[15515]: pam_unix(cron:session): session opened for user root by (uid=0)
+2019-05-09T20:17:01.881969+00:00 ip-10-1-1-176 CRON[15516]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+2019-05-09T20:17:01.882023+00:00 ip-10-1-1-176 CRON[15515]: pam_unix(cron:session): session closed for user root
+2019-05-09T21:17:01.900898+00:00 ip-10-1-1-176 CRON[15525]: pam_unix(cron:session): session opened for user root by (uid=0)
+2019-05-09T21:17:01.903055+00:00 ip-10-1-1-176 CRON[15526]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+2019-05-09T21:17:01.903458+00:00 ip-10-1-1-176 CRON[15525]: pam_unix(cron:session): session closed for user root
+2019-05-09T22:17:01.918426+00:00 ip-10-1-1-176 CRON[15672]: pam_unix(cron:session): session opened for user root by (uid=0)
+2019-05-09T22:17:01.919216+00:00 ip-10-1-1-176 CRON[15673]: (root) CMD (   cd / && run-parts --report /etc/cron.hourly)
+2019-05-09T22:17:01.920712+00:00 ip-10-1-1-176 CRON[15672]: pam_unix(cron:session): session closed for user root

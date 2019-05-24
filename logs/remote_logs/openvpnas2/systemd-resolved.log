@@ -1,0 +1,2 @@
+2019-05-09T14:31:14+00:00 openvpnas2 systemd-resolved[30196]: Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.
+2019-05-09T14:31:14+00:00 openvpnas2 systemd-resolved[30196]: message repeated 3 times: [ Server returned error NXDOMAIN, mitigating potential DNS violation DVE-2018-0001, retrying transaction with reduced feature level UDP.]

@@ -1,0 +1,5 @@
+2019-05-09T02:24:51.460759+00:00 ip-10-1-1-176 rsyslogd:  [origin software="rsyslogd" swVersion="8.32.0" x-pid="3028" x-info="http://www.rsyslog.com"] exiting on signal 15.
+2019-05-09T02:24:51.518610+00:00 ip-10-1-1-176 rsyslogd: imuxsock: Acquired UNIX socket '/run/systemd/journal/syslog' (fd 3) from systemd.  [v8.32.0]
+2019-05-09T02:24:51.518696+00:00 ip-10-1-1-176 rsyslogd: rsyslogd's groupid changed to 106
+2019-05-09T02:24:51.518760+00:00 ip-10-1-1-176 rsyslogd: rsyslogd's userid changed to 102
+2019-05-09T02:24:51.518819+00:00 ip-10-1-1-176 rsyslogd:  [origin software="rsyslogd" swVersion="8.32.0" x-pid="3700" x-info="http://www.rsyslog.com"] start

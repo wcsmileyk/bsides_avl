@@ -1,0 +1,11 @@
+2019-05-09T02:26:15.557182+00:00 ip-10-1-1-176 systemd-logind[813]: New session 30 of user ubuntu.
+2019-05-09T04:12:24.052503+00:00 ip-10-1-1-176 systemd-logind[813]: Removed session 24.
+2019-05-09T04:13:19.349640+00:00 ip-10-1-1-176 systemd-logind[813]: Removed session 27.
+2019-05-09T04:20:51.956816+00:00 ip-10-1-1-176 systemd-logind[813]: Removed session 26.
+2019-05-09T04:36:58.612574+00:00 ip-10-1-1-176 systemd-logind[813]: Removed session 29.
+2019-05-09T04:38:02.100503+00:00 ip-10-1-1-176 systemd-logind[813]: Removed session 30.
+2019-05-09T22:00:02.880687+00:00 ip-10-1-1-176 systemd-logind[813]: New session 52 of user ubuntu.
+2019-05-09T22:26:53.646240+00:00 ip-10-1-1-176 systemd-logind[813]: New session 55 of user ubuntu.
+2019-05-09T22:36:03.060377+00:00 ip-10-1-1-176 systemd-logind[813]: New session 56 of user ubuntu.
+2019-05-09T22:38:33.891609+00:00 ip-10-1-1-176 systemd-logind[813]: Removed session 56.
+2019-05-09T22:40:16.486249+00:00 ip-10-1-1-176 systemd-logind[813]: New session 57 of user ubuntu.

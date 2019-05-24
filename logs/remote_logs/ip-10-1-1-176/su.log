@@ -1,0 +1,22 @@
+2019-05-09T02:26:21.003920+00:00 ip-10-1-1-176 su[3846]: Successful su for root by root
+2019-05-09T02:26:21.004173+00:00 ip-10-1-1-176 su[3846]: + /dev/pts/4 root:root
+2019-05-09T02:26:21.004703+00:00 ip-10-1-1-176 su[3846]: pam_unix(su:session): session opened for user root by ubuntu(uid=0)
+2019-05-09T02:26:21.005742+00:00 ip-10-1-1-176 su[3846]: pam_systemd(su:session): Cannot create session: Already running in a session
+2019-05-09T04:12:24.050218+00:00 ip-10-1-1-176 su[3188]: pam_unix(su:session): session closed for user root
+2019-05-09T04:13:19.347416+00:00 ip-10-1-1-176 su[3497]: pam_unix(su:session): session closed for user root
+2019-05-09T04:20:51.954965+00:00 ip-10-1-1-176 su[3356]: pam_unix(su:session): session closed for user root
+2019-05-09T04:36:58.610639+00:00 ip-10-1-1-176 su[3623]: pam_unix(su:session): session closed for user root
+2019-05-09T04:38:02.098695+00:00 ip-10-1-1-176 su[3846]: pam_unix(su:session): session closed for user root
+2019-05-09T22:27:04.261241+00:00 ip-10-1-1-176 su[15779]: Successful su for root by root
+2019-05-09T22:27:04.261478+00:00 ip-10-1-1-176 su[15779]: + /dev/pts/1 root:root
+2019-05-09T22:27:04.262012+00:00 ip-10-1-1-176 su[15779]: pam_unix(su:session): session opened for user root by ubuntu(uid=0)
+2019-05-09T22:27:04.263028+00:00 ip-10-1-1-176 su[15779]: pam_systemd(su:session): Cannot create session: Already running in a session
+2019-05-09T22:36:07.581707+00:00 ip-10-1-1-176 su[15922]: Successful su for root by root
+2019-05-09T22:36:07.581927+00:00 ip-10-1-1-176 su[15922]: + /dev/pts/2 root:root
+2019-05-09T22:36:07.582468+00:00 ip-10-1-1-176 su[15922]: pam_unix(su:session): session opened for user root by ubuntu(uid=0)
+2019-05-09T22:36:07.583509+00:00 ip-10-1-1-176 su[15922]: pam_systemd(su:session): Cannot create session: Already running in a session
+2019-05-09T22:38:32.930959+00:00 ip-10-1-1-176 su[15922]: pam_unix(su:session): session closed for user root
+2019-05-09T22:40:23.025738+00:00 ip-10-1-1-176 su[16076]: Successful su for root by root
+2019-05-09T22:40:23.025945+00:00 ip-10-1-1-176 su[16076]: + /dev/pts/2 root:root
+2019-05-09T22:40:23.026494+00:00 ip-10-1-1-176 su[16076]: pam_unix(su:session): session opened for user root by ubuntu(uid=0)
+2019-05-09T22:40:23.027538+00:00 ip-10-1-1-176 su[16076]: pam_systemd(su:session): Cannot create session: Already running in a session

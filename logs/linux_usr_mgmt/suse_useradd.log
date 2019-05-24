@@ -1,0 +1,5 @@
+Sep 15 17:11:27 myserver useradd[13542]: new account added - account=fred, uid=1016, gid=100, home=/home/fred, shell=/bin/bash, by=0
+Sep 15 17:11:27 myserver useradd[13542]: account added to group - account=fred, group=video, gid=33, by=0
+Sep 15 17:11:27 myserver useradd[13542]: account added to group - account=fred, group=dialout, gid=16, by=0
+Sep 15 17:11:27 myserver useradd[13542]: home directory created - account=fred, uid=1016, home=/home/fred, by=0
+Sep 15 17:11:27 myserver useradd[13542]: running USERADD_CMD command - script=/usr/sbin/useradd.local, account=fred, uid=1016, gid=100, home=/home/fred, by=0

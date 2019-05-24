@@ -1,0 +1,6 @@
+May 28 16:04:10 server2 useradd[30245]: failed adding user 'avahi', data deleted
+May 28 16:04:10 server2 passwd[30246]: password for 'avahi' changed by 'root'
+May 28 16:04:12 server2 passwd[30263]: password for 'hal' changed by 'root'
+May 28 16:07:10 server2 useradd[30523]: failed adding user 'mysql', data deleted
+May 28 16:11:48 server2 passwd[32532]: password for 'gdm' changed by 'root'
+May 28 16:16:07 server2 useradd[633]: failed adding user 'privoxy', data deleted

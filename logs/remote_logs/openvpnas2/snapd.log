@@ -1,0 +1,9 @@
+2019-05-09T05:28:44+00:00 openvpnas2 snapd[11603]: storehelpers.go:441: cannot refresh: snap has no updates available: "amazon-ssm-agent", "core"
+2019-05-09T05:28:44+00:00 openvpnas2 snapd[11603]: autorefresh.go:379: auto-refresh: all snaps are up-to-date
+2019-05-09T08:53:44+00:00 openvpnas2 snapd[11603]: storehelpers.go:441: cannot refresh: snap has no updates available: "amazon-ssm-agent", "core"
+2019-05-09T08:53:44+00:00 openvpnas2 snapd[11603]: autorefresh.go:379: auto-refresh: all snaps are up-to-date
+2019-05-09T16:38:54+00:00 openvpnas2 snapd[11603]: storehelpers.go:441: cannot refresh: snap has no updates available: "amazon-ssm-agent", "core"
+2019-05-09T16:38:54+00:00 openvpnas2 snapd[11603]: autorefresh.go:379: auto-refresh: all snaps are up-to-date
+2019-05-09T16:39:48+00:00 openvpnas2 snapd[11603]: 2019/05/09 16:39:48 Unsolicited response received on idle HTTP channel starting with "HTTP/1.0 408 Request Time-out\r\nCache-Control: no-cache\r\nConnection: close\r\nContent-Type: text/html\r\n\r\n<html><body><h1>408 Request Time-out</h1>\nYour browser didn't send a complete request in time.\n</body></html>\n"; err=<nil>
+2019-05-09T20:53:52+00:00 openvpnas2 snapd[11603]: storehelpers.go:441: cannot refresh: snap has no updates available: "amazon-ssm-agent", "core"
+2019-05-09T20:53:52+00:00 openvpnas2 snapd[11603]: autorefresh.go:379: auto-refresh: all snaps are up-to-date
