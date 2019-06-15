@@ -1,0 +1,590 @@
+2019-05-09T02:25:44+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 02:25:44 2019 smiley/76.210.33.168:58974 SIGTERM[soft,remote-exit] received, client-instance exiting'
+2019-05-09T02:25:44+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 02:25:44 2019 TCP connection established with [AF_INET]76.210.33.168:52251'
+2019-05-09T02:25:44+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 02:25:44 2019 76.210.33.168:52251 SIGTERM[soft,port-share-redirect] received, client-instance exiting'
+2019-05-09T02:25:52+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 02:25:52 2019 TCP connection established with [AF_INET]76.210.33.168:52279'
+2019-05-09T02:25:52+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 02:25:52 2019 76.210.33.168:52279 SIGTERM[soft,port-share-redirect] received, client-instance exiting'
+2019-05-09T02:25:52+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 02:25:52 2019 TCP connection established with [AF_INET]76.210.33.168:52280'
+2019-05-09T02:25:52+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 02:25:52 2019 76.210.33.168:52280 SIGTERM[soft,port-share-redirect] received, client-instance exiting'
+2019-05-09T02:25:52+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 02:25:52 2019 76.210.33.168:63142 TLS: Initial packet from [AF_INET]76.210.33.168:63142, sid=5e376b9f 3738a194'
+2019-05-09T02:25:53+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 02:25:52 2019 76.210.33.168:63142 VERIFY OK: depth=1, /CN=OpenVPN CA'
+2019-05-09T02:25:53+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 02:25:52 2019 76.210.33.168:63142 VERIFY OK: nsCertType=CLIENT'
+2019-05-09T02:25:53+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 02:25:52 2019 76.210.33.168:63142 VERIFY OK: depth=0, /CN=smiley'
+2019-05-09T02:25:53+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 02:25:53 2019 76.210.33.168:63142 peer info: IV_GUI_VER=ovpnmi_1.0.0'
+2019-05-09T02:25:53+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 02:25:53 2019 76.210.33.168:63142 peer info: IV_VER=3.git:master'
+2019-05-09T02:25:53+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 02:25:53 2019 76.210.33.168:63142 peer info: IV_PLAT=mac'
+2019-05-09T02:25:53+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 02:25:53 2019 76.210.33.168:63142 peer info: IV_NCP=2'
+2019-05-09T02:25:53+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 02:25:53 2019 76.210.33.168:63142 peer info: IV_TCPNL=1'
+2019-05-09T02:25:53+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 02:25:53 2019 76.210.33.168:63142 peer info: IV_PROTO=2'
+2019-05-09T02:25:53+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 02:25:53 2019 76.210.33.168:63142 peer info: IV_LZO=1'
+2019-05-09T02:25:53+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 02:25:53 2019 76.210.33.168:63142 peer info: IV_LZO_SWAP=1'
+2019-05-09T02:25:53+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 02:25:53 2019 76.210.33.168:63142 peer info: IV_LZ4=1'
+2019-05-09T02:25:53+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 02:25:53 2019 76.210.33.168:63142 peer info: IV_LZ4v2=1'
+2019-05-09T02:25:53+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 02:25:53 2019 76.210.33.168:63142 peer info: IV_COMP_STUB=1'
+2019-05-09T02:25:53+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 02:25:53 2019 76.210.33.168:63142 peer info: IV_COMP_STUBv2=1'
+2019-05-09T02:25:53+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 02:25:53 2019 76.210.33.168:63142 peer info: UV_ASCLI_VER=2.6.0.103'
+2019-05-09T02:25:53+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 02:25:53 2019 76.210.33.168:63142 peer info: UV_PLAT_REL=18.5.0'
+2019-05-09T02:25:53+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 02:25:53 2019 76.210.33.168:63142 peer info: IV_HWADDR=38:f9:d3:41:12:2e'
+2019-05-09T02:25:53+00:00 openvpnas2 openvpnas: [-] AUTH SUCCESS {'status': 0, 'session_id': '[redacted]', 'reason': 'SESSION_ID auth succeeded', 'serial_list': [], 'user': 'smiley', 'proplist': {u'prop_deny': u'false', u'prop_autogenerate': u'true'}, 'common_name': u'smiley', 'serial': '4'} cli=u'mac'/u'3.git:master'
+2019-05-09T02:25:53+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: "Thu May  9 02:25:53 2019 MANAGEMENT: CMD 'client-auth 18 0'"
+2019-05-09T02:25:53+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 02:25:53 2019 76.210.33.168:63142 Control Channel: TLSv1.2, cipher TLSv1/SSLv3 ECDHE-RSA-AES256-GCM-SHA384, 2048 bit RSA'
+2019-05-09T02:25:53+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 02:25:53 2019 76.210.33.168:63142 [smiley] Peer Connection Initiated with [AF_INET]76.210.33.168:63142'
+2019-05-09T02:25:53+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 02:25:53 2019 smiley/76.210.33.168:63142 OPTIONS IMPORT: compression parms modified'
+2019-05-09T02:25:53+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 02:25:53 2019 smiley/76.210.33.168:63142 MULTI: Learn: 172.27.232.18 -> smiley/76.210.33.168:63142'
+2019-05-09T02:25:53+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 02:25:53 2019 smiley/76.210.33.168:63142 MULTI: primary virtual IP for smiley/76.210.33.168:63142: 172.27.232.18'
+2019-05-09T02:25:53+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: "Thu May  9 02:25:53 2019 smiley/76.210.33.168:63142 SENT CONTROL [smiley]: 'PUSH_REPLY,explicit-exit-notify,topology subnet,route-delay 5 30,dhcp-pre-release,dhcp-renew,dhcp-release,route-metric 101,ping 12,ping-restart 50,auth-tokenSESS_ID,compress stub-v2,redirect-private def1,redirect-private bypass-dhcp,redirect-private autolocal,redirect-private bypass-dns,route-gateway 172.27.232.1,route 172.27.224.0 255.255.240.0,route 10.1.0.0 255.255.0.0,block-ipv6,ifconfig 172.27.232.18 255.255.248.0,peer-id 0,cipher AES-256-GCM' (status=1)"
+2019-05-09T02:25:53+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: "Thu May  9 02:25:53 2019 smiley/76.210.33.168:63142 Data Channel: using negotiated cipher 'AES-256-GCM'"
+2019-05-09T02:25:53+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: "Thu May  9 02:25:53 2019 smiley/76.210.33.168:63142 Outgoing Data Channel: Cipher 'AES-256-GCM' initialized with 256 bit key"
+2019-05-09T02:25:53+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: "Thu May  9 02:25:53 2019 smiley/76.210.33.168:63142 Incoming Data Channel: Cipher 'AES-256-GCM' initialized with 256 bit key"
+2019-05-09T02:27:27+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 02:27:27 2019 smiley/76.210.33.168:63142 SIGTERM[soft,remote-exit] received, client-instance exiting'
+2019-05-09T02:27:27+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 02:27:27 2019 TCP connection established with [AF_INET]76.210.33.168:52292'
+2019-05-09T02:27:27+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 02:27:27 2019 76.210.33.168:52292 SIGTERM[soft,port-share-redirect] received, client-instance exiting'
+2019-05-09T02:33:18+00:00 openvpnas2 openvpnas: [-] WEB OUT: '2019-05-09 02:33:17+0000 [-] expired session 1e65...'
+2019-05-09T02:33:18+00:00 openvpnas2 openvpnas: [-] WEB OUT: '2019-05-09 02:33:17+0000 [-] Logout of portal <twisted.cred.portal.Portal instance at 0x7f897a7f7710>'
+2019-05-09T02:33:23+00:00 openvpnas2 openvpnas: [-] WEB OUT: '2019-05-09 02:33:23+0000 [-] expired session b883...'
+2019-05-09T02:33:23+00:00 openvpnas2 openvpnas: [-] WEB OUT: '2019-05-09 02:33:23+0000 [-] Logout of portal <twisted.cred.portal.Portal instance at 0x7f897a7f7710>'
+2019-05-09T04:37:04+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 04:37:04 2019 TCP connection established with [AF_INET]175.184.166.203:46323'
+2019-05-09T04:37:04+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 04:37:04 2019 175.184.166.203:46323 SIGTERM[soft,port-share-redirect] received, client-instance exiting'
+2019-05-09T04:37:04+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 04:37:04 2019 TCP connection established with [AF_INET]221.13.12.2:33622'
+2019-05-09T04:37:04+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 04:37:04 2019 221.13.12.2:33622 SIGTERM[soft,port-share-redirect] received, client-instance exiting'
+2019-05-09T06:39:21+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 06:39:21 2019 TCP connection established with [AF_INET]61.219.11.153:61238'
+2019-05-09T06:39:23+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 06:39:23 2019 61.219.11.153:61238 SIGTERM[soft,port-share-redirect] received, client-instance exiting'
+2019-05-09T06:52:51+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 06:52:51 2019 TCP connection established with [AF_INET]198.108.66.176:19226'
+2019-05-09T06:52:51+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 06:52:51 2019 198.108.66.176:19226 SIGTERM[soft,port-share-redirect] received, client-instance exiting'
+2019-05-09T08:11:54+00:00 openvpnas2 openvpnas: [-] *** MEMORY usage: 66204 objects, counts=(322, 6, 0)
+2019-05-09T08:11:54+00:00 openvpnas2 openvpnas: [-] (15261, <type 'function'>)
+2019-05-09T08:11:54+00:00 openvpnas2 openvpnas: [-] (10472, <type 'dict'>)
+2019-05-09T08:11:54+00:00 openvpnas2 openvpnas: [-] (9652, <type 'tuple'>)
+2019-05-09T08:11:54+00:00 openvpnas2 openvpnas: [-] (4321, <type 'weakref'>)
+2019-05-09T08:11:54+00:00 openvpnas2 openvpnas: [-] (4138, <class 'ovpn3.IPAddr'>)
+2019-05-09T08:11:54+00:00 openvpnas2 openvpnas: [-] (3682, <type 'list'>)
+2019-05-09T08:11:54+00:00 openvpnas2 openvpnas: [-] (1695, <type 'type'>)
+2019-05-09T08:11:54+00:00 openvpnas2 openvpnas: [-] (1575, <type 'getset_descriptor'>)
+2019-05-09T08:11:54+00:00 openvpnas2 openvpnas: [-] (1323, <type 'wrapper_descriptor'>)
+2019-05-09T08:11:54+00:00 openvpnas2 openvpnas: [-] (1301, <type 'builtin_function_or_method'>)
+2019-05-09T08:11:54+00:00 openvpnas2 openvpnas: [-] (1298, <type 'set'>)
+2019-05-09T08:11:54+00:00 openvpnas2 openvpnas: [-] (972, <type 'instance'>)
+2019-05-09T08:11:54+00:00 openvpnas2 openvpnas: [-] (893, <type 'method_descriptor'>)
+2019-05-09T08:11:54+00:00 openvpnas2 openvpnas: [-] (759, <type 'module'>)
+2019-05-09T08:11:54+00:00 openvpnas2 openvpnas: [-] (618, <type 'instancemethod'>)
+2019-05-09T08:11:54+00:00 openvpnas2 openvpnas: [-] (600, <type 'cell'>)
+2019-05-09T08:11:54+00:00 openvpnas2 openvpnas: [-] (565, <type 'classobj'>)
+2019-05-09T08:11:54+00:00 openvpnas2 openvpnas: [-] (427, <type 'classmethod'>)
+2019-05-09T08:11:54+00:00 openvpnas2 openvpnas: [-] (379, <class 'zope.interface.interface.Method'>)
+2019-05-09T08:11:54+00:00 openvpnas2 openvpnas: [-] (366, <type 'frozenset'>)
+2019-05-09T08:11:54+00:00 openvpnas2 openvpnas: [-] *** GARBAGE usage: 0 objects, counts=(447, 6, 0)
+2019-05-09T08:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: '2019-05-09 08:11:55+0000 [-] *** MEMORY usage: 41246 objects, counts=(124, 4, 2)'
+2019-05-09T08:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: "2019-05-09 08:11:55+0000 [-] (9642, <type 'function'>)"
+2019-05-09T08:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: "2019-05-09 08:11:55+0000 [-] (6792, <type 'dict'>)"
+2019-05-09T08:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: "2019-05-09 08:11:55+0000 [-] (5561, <type 'tuple'>)"
+2019-05-09T08:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: "2019-05-09 08:11:55+0000 [-] (3571, <type 'list'>)"
+2019-05-09T08:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: "2019-05-09 08:11:55+0000 [-] (3036, <type 'weakref'>)"
+2019-05-09T08:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: "2019-05-09 08:11:55+0000 [-] (1280, <type 'wrapper_descriptor'>)"
+2019-05-09T08:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: "2019-05-09 08:11:55+0000 [-] (1213, <type 'instance'>)"
+2019-05-09T08:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: "2019-05-09 08:11:55+0000 [-] (1140, <type 'builtin_function_or_method'>)"
+2019-05-09T08:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: "2019-05-09 08:11:55+0000 [-] (1088, <type 'getset_descriptor'>)"
+2019-05-09T08:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: "2019-05-09 08:11:55+0000 [-] (989, <type 'type'>)"
+2019-05-09T08:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: "2019-05-09 08:11:55+0000 [-] (899, <type 'set'>)"
+2019-05-09T08:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: "2019-05-09 08:11:55+0000 [-] (872, <type 'method_descriptor'>)"
+2019-05-09T08:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: "2019-05-09 08:11:55+0000 [-] (547, <type 'module'>)"
+2019-05-09T08:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: "2019-05-09 08:11:55+0000 [-] (466, <type 'classobj'>)"
+2019-05-09T08:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: "2019-05-09 08:11:55+0000 [-] (378, <class 'zope.interface.interface.Method'>)"
+2019-05-09T08:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: "2019-05-09 08:11:55+0000 [-] (294, <type 'member_descriptor'>)"
+2019-05-09T08:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: "2019-05-09 08:11:55+0000 [-] (291, <class 'zope.interface.declarations.Implements'>)"
+2019-05-09T08:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: "2019-05-09 08:11:55+0000 [-] (258, <class 'zope.interface.declarations.ClassProvides'>)"
+2019-05-09T08:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: "2019-05-09 08:11:55+0000 [-] (251, <class 'nevow.stan.Entity'>)"
+2019-05-09T08:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: "2019-05-09 08:11:55+0000 [-] (213, <type 'instancemethod'>)"
+2019-05-09T08:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: '2019-05-09 08:11:55+0000 [-] *** GARBAGE usage: 0 objects, counts=(125, 4, 2)'
+2019-05-09T09:41:25+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 09:41:25 2019 TCP connection established with [AF_INET]198.108.66.16:4460'
+2019-05-09T09:41:25+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 09:41:25 2019 198.108.66.16:4460 SIGTERM[soft,port-share-redirect] received, client-instance exiting'
+2019-05-09T14:11:54+00:00 openvpnas2 openvpnas: [-] *** MEMORY usage: 66136 objects, counts=(413, 6, 0)
+2019-05-09T14:11:54+00:00 openvpnas2 openvpnas: [-] (15261, <type 'function'>)
+2019-05-09T14:11:54+00:00 openvpnas2 openvpnas: [-] (10455, <type 'dict'>)
+2019-05-09T14:11:54+00:00 openvpnas2 openvpnas: [-] (9652, <type 'tuple'>)
+2019-05-09T14:11:54+00:00 openvpnas2 openvpnas: [-] (4321, <type 'weakref'>)
+2019-05-09T14:11:54+00:00 openvpnas2 openvpnas: [-] (4138, <class 'ovpn3.IPAddr'>)
+2019-05-09T14:11:54+00:00 openvpnas2 openvpnas: [-] (3682, <type 'list'>)
+2019-05-09T14:11:54+00:00 openvpnas2 openvpnas: [-] (1695, <type 'type'>)
+2019-05-09T14:11:54+00:00 openvpnas2 openvpnas: [-] (1575, <type 'getset_descriptor'>)
+2019-05-09T14:11:54+00:00 openvpnas2 openvpnas: [-] (1323, <type 'wrapper_descriptor'>)
+2019-05-09T14:11:54+00:00 openvpnas2 openvpnas: [-] (1301, <type 'builtin_function_or_method'>)
+2019-05-09T14:11:54+00:00 openvpnas2 openvpnas: [-] (1298, <type 'set'>)
+2019-05-09T14:11:54+00:00 openvpnas2 openvpnas: [-] (955, <type 'instance'>)
+2019-05-09T14:11:54+00:00 openvpnas2 openvpnas: [-] (893, <type 'method_descriptor'>)
+2019-05-09T14:11:54+00:00 openvpnas2 openvpnas: [-] (759, <type 'module'>)
+2019-05-09T14:11:54+00:00 openvpnas2 openvpnas: [-] (600, <type 'cell'>)
+2019-05-09T14:11:54+00:00 openvpnas2 openvpnas: [-] (584, <type 'instancemethod'>)
+2019-05-09T14:11:54+00:00 openvpnas2 openvpnas: [-] (565, <type 'classobj'>)
+2019-05-09T14:11:54+00:00 openvpnas2 openvpnas: [-] (427, <type 'classmethod'>)
+2019-05-09T14:11:54+00:00 openvpnas2 openvpnas: [-] (379, <class 'zope.interface.interface.Method'>)
+2019-05-09T14:11:54+00:00 openvpnas2 openvpnas: [-] (366, <type 'frozenset'>)
+2019-05-09T14:11:54+00:00 openvpnas2 openvpnas: [-] *** GARBAGE usage: 0 objects, counts=(413, 6, 0)
+2019-05-09T14:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: '2019-05-09 14:11:55+0000 [-] *** MEMORY usage: 41158 objects, counts=(103, 4, 2)'
+2019-05-09T14:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: "2019-05-09 14:11:55+0000 [-] (9642, <type 'function'>)"
+2019-05-09T14:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: "2019-05-09 14:11:55+0000 [-] (6770, <type 'dict'>)"
+2019-05-09T14:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: "2019-05-09 14:11:55+0000 [-] (5561, <type 'tuple'>)"
+2019-05-09T14:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: "2019-05-09 14:11:55+0000 [-] (3571, <type 'list'>)"
+2019-05-09T14:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: "2019-05-09 14:11:55+0000 [-] (3036, <type 'weakref'>)"
+2019-05-09T14:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: "2019-05-09 14:11:55+0000 [-] (1280, <type 'wrapper_descriptor'>)"
+2019-05-09T14:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: "2019-05-09 14:11:55+0000 [-] (1191, <type 'instance'>)"
+2019-05-09T14:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: "2019-05-09 14:11:55+0000 [-] (1140, <type 'builtin_function_or_method'>)"
+2019-05-09T14:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: "2019-05-09 14:11:55+0000 [-] (1088, <type 'getset_descriptor'>)"
+2019-05-09T14:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: "2019-05-09 14:11:55+0000 [-] (989, <type 'type'>)"
+2019-05-09T14:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: "2019-05-09 14:11:55+0000 [-] (899, <type 'set'>)"
+2019-05-09T14:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: "2019-05-09 14:11:55+0000 [-] (872, <type 'method_descriptor'>)"
+2019-05-09T14:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: "2019-05-09 14:11:55+0000 [-] (547, <type 'module'>)"
+2019-05-09T14:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: "2019-05-09 14:11:55+0000 [-] (466, <type 'classobj'>)"
+2019-05-09T14:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: "2019-05-09 14:11:55+0000 [-] (378, <class 'zope.interface.interface.Method'>)"
+2019-05-09T14:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: "2019-05-09 14:11:55+0000 [-] (294, <type 'member_descriptor'>)"
+2019-05-09T14:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: "2019-05-09 14:11:55+0000 [-] (291, <class 'zope.interface.declarations.Implements'>)"
+2019-05-09T14:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: "2019-05-09 14:11:55+0000 [-] (258, <class 'zope.interface.declarations.ClassProvides'>)"
+2019-05-09T14:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: "2019-05-09 14:11:55+0000 [-] (251, <class 'nevow.stan.Entity'>)"
+2019-05-09T14:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: "2019-05-09 14:11:55+0000 [-] (212, <type 'cell'>)"
+2019-05-09T14:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: '2019-05-09 14:11:55+0000 [-] *** GARBAGE usage: 0 objects, counts=(103, 4, 2)'
+2019-05-09T15:27:10+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 15:27:10 2019 TCP connection established with [AF_INET]164.52.24.162:57161'
+2019-05-09T15:27:10+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 15:27:10 2019 164.52.24.162:57161 SIGTERM[soft,port-share-redirect] received, client-instance exiting'
+2019-05-09T16:25:46+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 16:25:46 2019 TCP connection established with [AF_INET]71.6.202.253:57564'
+2019-05-09T16:25:47+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 16:25:47 2019 71.6.202.253:57564 SIGTERM[soft,port-share-redirect] received, client-instance exiting'
+2019-05-09T18:08:55+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 18:08:55 2019 TCP connection established with [AF_INET]209.17.96.2:57239'
+2019-05-09T18:08:57+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 18:08:57 2019 209.17.96.2:57239 SIGTERM[soft,port-share-redirect] received, client-instance exiting'
+2019-05-09T18:59:20+00:00 openvpnas2 openvpnas: [-] License Info {'apc': True, 'concurrent_connections': 5}
+2019-05-09T20:11:55+00:00 openvpnas2 openvpnas: [-] *** MEMORY usage: 66184 objects, counts=(448, 6, 0)
+2019-05-09T20:11:55+00:00 openvpnas2 openvpnas: [-] (15267, <type 'function'>)
+2019-05-09T20:11:55+00:00 openvpnas2 openvpnas: [-] (10449, <type 'dict'>)
+2019-05-09T20:11:55+00:00 openvpnas2 openvpnas: [-] (9659, <type 'tuple'>)
+2019-05-09T20:11:55+00:00 openvpnas2 openvpnas: [-] (4321, <type 'weakref'>)
+2019-05-09T20:11:55+00:00 openvpnas2 openvpnas: [-] (4138, <class 'ovpn3.IPAddr'>)
+2019-05-09T20:11:55+00:00 openvpnas2 openvpnas: [-] (3693, <type 'list'>)
+2019-05-09T20:11:55+00:00 openvpnas2 openvpnas: [-] (1695, <type 'type'>)
+2019-05-09T20:11:55+00:00 openvpnas2 openvpnas: [-] (1575, <type 'getset_descriptor'>)
+2019-05-09T20:11:55+00:00 openvpnas2 openvpnas: [-] (1323, <type 'wrapper_descriptor'>)
+2019-05-09T20:11:55+00:00 openvpnas2 openvpnas: [-] (1313, <type 'builtin_function_or_method'>)
+2019-05-09T20:11:55+00:00 openvpnas2 openvpnas: [-] (1300, <type 'set'>)
+2019-05-09T20:11:55+00:00 openvpnas2 openvpnas: [-] (947, <type 'instance'>)
+2019-05-09T20:11:55+00:00 openvpnas2 openvpnas: [-] (893, <type 'method_descriptor'>)
+2019-05-09T20:11:55+00:00 openvpnas2 openvpnas: [-] (759, <type 'module'>)
+2019-05-09T20:11:55+00:00 openvpnas2 openvpnas: [-] (606, <type 'cell'>)
+2019-05-09T20:11:55+00:00 openvpnas2 openvpnas: [-] (568, <type 'instancemethod'>)
+2019-05-09T20:11:55+00:00 openvpnas2 openvpnas: [-] (565, <type 'classobj'>)
+2019-05-09T20:11:55+00:00 openvpnas2 openvpnas: [-] (427, <type 'classmethod'>)
+2019-05-09T20:11:55+00:00 openvpnas2 openvpnas: [-] (379, <class 'zope.interface.interface.Method'>)
+2019-05-09T20:11:55+00:00 openvpnas2 openvpnas: [-] (366, <type 'frozenset'>)
+2019-05-09T20:11:55+00:00 openvpnas2 openvpnas: [-] *** GARBAGE usage: 0 objects, counts=(453, 6, 0)
+2019-05-09T20:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: '2019-05-09 20:11:55+0000 [-] *** MEMORY usage: 41126 objects, counts=(94, 4, 2)'
+2019-05-09T20:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: "2019-05-09 20:11:55+0000 [-] (9642, <type 'function'>)"
+2019-05-09T20:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: "2019-05-09 20:11:55+0000 [-] (6762, <type 'dict'>)"
+2019-05-09T20:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: "2019-05-09 20:11:55+0000 [-] (5561, <type 'tuple'>)"
+2019-05-09T20:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: "2019-05-09 20:11:55+0000 [-] (3571, <type 'list'>)"
+2019-05-09T20:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: "2019-05-09 20:11:55+0000 [-] (3036, <type 'weakref'>)"
+2019-05-09T20:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: "2019-05-09 20:11:55+0000 [-] (1280, <type 'wrapper_descriptor'>)"
+2019-05-09T20:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: "2019-05-09 20:11:55+0000 [-] (1183, <type 'instance'>)"
+2019-05-09T20:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: "2019-05-09 20:11:55+0000 [-] (1140, <type 'builtin_function_or_method'>)"
+2019-05-09T20:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: "2019-05-09 20:11:55+0000 [-] (1088, <type 'getset_descriptor'>)"
+2019-05-09T20:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: "2019-05-09 20:11:55+0000 [-] (989, <type 'type'>)"
+2019-05-09T20:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: "2019-05-09 20:11:55+0000 [-] (899, <type 'set'>)"
+2019-05-09T20:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: "2019-05-09 20:11:55+0000 [-] (872, <type 'method_descriptor'>)"
+2019-05-09T20:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: "2019-05-09 20:11:55+0000 [-] (547, <type 'module'>)"
+2019-05-09T20:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: "2019-05-09 20:11:55+0000 [-] (466, <type 'classobj'>)"
+2019-05-09T20:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: "2019-05-09 20:11:55+0000 [-] (378, <class 'zope.interface.interface.Method'>)"
+2019-05-09T20:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: "2019-05-09 20:11:55+0000 [-] (294, <type 'member_descriptor'>)"
+2019-05-09T20:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: "2019-05-09 20:11:55+0000 [-] (291, <class 'zope.interface.declarations.Implements'>)"
+2019-05-09T20:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: "2019-05-09 20:11:55+0000 [-] (258, <class 'zope.interface.declarations.ClassProvides'>)"
+2019-05-09T20:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: "2019-05-09 20:11:55+0000 [-] (251, <class 'nevow.stan.Entity'>)"
+2019-05-09T20:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: "2019-05-09 20:11:55+0000 [-] (212, <type 'cell'>)"
+2019-05-09T20:11:55+00:00 openvpnas2 openvpnas: [-] WEB OUT: '2019-05-09 20:11:55+0000 [-] *** GARBAGE usage: 0 objects, counts=(94, 4, 2)'
+2019-05-09T20:35:03+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 20:35:03 2019 TCP connection established with [AF_INET]51.77.12.220:45722'
+2019-05-09T20:35:03+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 20:35:03 2019 51.77.12.220:45722 Connection reset, restarting [0]'
+2019-05-09T20:35:03+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 20:35:03 2019 51.77.12.220:45722 SIGUSR1[soft,connection-reset] received, client-instance restarting'
+2019-05-09T20:51:31+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 20:51:31 2019 TCP connection established with [AF_INET]61.219.11.153:64531'
+2019-05-09T20:51:33+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 20:51:33 2019 61.219.11.153:64531 SIGTERM[soft,port-share-redirect] received, client-instance exiting'
+2019-05-09T21:14:14+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 21:14:14 2019 TCP connection established with [AF_INET]111.59.117.51:54103'
+2019-05-09T21:14:14+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 21:14:14 2019 111.59.117.51:54103 SIGTERM[soft,port-share-redirect] received, client-instance exiting'
+2019-05-09T21:14:15+00:00 openvpnas2 openvpnas: [-] WEB OUT: '2019-05-09 21:14:15+0000 [HTTPChannel,171,127.0.0.1] 127.0.0.1 - - [09/May/2019:21:14:15 +0000] "CONNECT www.baidu.com:443 HTTP/1.1" 302 59 "-" "Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:65.0) Gecko/20100101 Firefox/65.0"'
+2019-05-09T21:15:15+00:00 openvpnas2 openvpnas: [-] WEB OUT: '2019-05-09 21:15:15+0000 [-] expired session bc40...'
+2019-05-09T21:25:52+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:25:52 2019 TLS Error: cannot locate HMAC in incoming packet from [AF_INET]185.200.118.44:59107'
+2019-05-09T21:28:16+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 21:28:16 2019 TCP connection established with [AF_INET]107.170.203.123:34746'
+2019-05-09T21:28:16+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 21:28:16 2019 107.170.203.123:34746 SIGTERM[soft,port-share-redirect] received, client-instance exiting'
+2019-05-09T21:29:17+00:00 openvpnas2 openvpnas: [-] WEB OUT: '2019-05-09 21:29:17+0000 [-] expired session 1dcf...'
+2019-05-09T21:56:45+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 21:56:45 2019 TCP connection established with [AF_INET]76.210.33.168:54389'
+2019-05-09T21:56:45+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 21:56:45 2019 76.210.33.168:54389 SIGTERM[soft,port-share-redirect] received, client-instance exiting'
+2019-05-09T21:57:01+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 21:57:01 2019 TCP connection established with [AF_INET]76.210.33.168:54392'
+2019-05-09T21:57:01+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 21:57:01 2019 76.210.33.168:54392 SIGTERM[soft,port-share-redirect] received, client-instance exiting'
+2019-05-09T21:57:01+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:01 2019 76.210.33.168:54133 TLS: Initial packet from [AF_INET]76.210.33.168:54133, sid=dbe12003 a4bb43c9'
+2019-05-09T21:57:02+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:02 2019 76.210.33.168:54133 Authenticate/Decrypt packet error: bad packet ID (may be a replay): [ #2 / time = (1557439021) Thu May  9 21:57:01 2019 ] -- see the man page entry for --no-replay and --replay-window for more info or silence this warning with --mute-replay-warnings'
+2019-05-09T21:57:02+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:02 2019 76.210.33.168:54133 TLS Error: incoming packet authentication failed from [AF_INET]76.210.33.168:54133'
+2019-05-09T21:57:03+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:03 2019 76.210.33.168:54133 Authenticate/Decrypt packet error: bad packet ID (may be a replay): [ #2 / time = (1557439021) Thu May  9 21:57:01 2019 ] -- see the man page entry for --no-replay and --replay-window for more info or silence this warning with --mute-replay-warnings'
+2019-05-09T21:57:03+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:03 2019 76.210.33.168:54133 TLS Error: incoming packet authentication failed from [AF_INET]76.210.33.168:54133'
+2019-05-09T21:57:04+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:04 2019 76.210.33.168:54133 VERIFY OK: depth=1, /CN=OpenVPN CA'
+2019-05-09T21:57:04+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:04 2019 76.210.33.168:54133 VERIFY OK: nsCertType=CLIENT'
+2019-05-09T21:57:04+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:04 2019 76.210.33.168:54133 VERIFY OK: depth=0, /CN=smiley'
+2019-05-09T21:57:04+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:04 2019 76.210.33.168:54133 peer info: IV_GUI_VER=ovpnmi_1.0.0'
+2019-05-09T21:57:04+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:04 2019 76.210.33.168:54133 peer info: IV_VER=3.git:master'
+2019-05-09T21:57:04+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:04 2019 76.210.33.168:54133 peer info: IV_PLAT=mac'
+2019-05-09T21:57:04+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:04 2019 76.210.33.168:54133 peer info: IV_NCP=2'
+2019-05-09T21:57:04+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:04 2019 76.210.33.168:54133 peer info: IV_TCPNL=1'
+2019-05-09T21:57:04+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:04 2019 76.210.33.168:54133 peer info: IV_PROTO=2'
+2019-05-09T21:57:04+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:04 2019 76.210.33.168:54133 peer info: IV_LZO=1'
+2019-05-09T21:57:04+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:04 2019 76.210.33.168:54133 peer info: IV_LZO_SWAP=1'
+2019-05-09T21:57:04+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:04 2019 76.210.33.168:54133 peer info: IV_LZ4=1'
+2019-05-09T21:57:04+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:04 2019 76.210.33.168:54133 peer info: IV_LZ4v2=1'
+2019-05-09T21:57:04+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:04 2019 76.210.33.168:54133 peer info: IV_COMP_STUB=1'
+2019-05-09T21:57:04+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:04 2019 76.210.33.168:54133 peer info: IV_COMP_STUBv2=1'
+2019-05-09T21:57:04+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:04 2019 76.210.33.168:54133 peer info: UV_ASCLI_VER=2.6.0.103'
+2019-05-09T21:57:04+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:04 2019 76.210.33.168:54133 peer info: UV_PLAT_REL=18.5.0'
+2019-05-09T21:57:04+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:04 2019 76.210.33.168:54133 peer info: IV_HWADDR=38:f9:d3:41:12:2e'
+2019-05-09T21:57:04+00:00 openvpnas2 openvpnas: [-] AUTH SUCCESS {'status': 0, 'session_id': '[redacted]', 'reason': 'SESSION_ID auth succeeded', 'serial_list': [], 'user': 'smiley', 'proplist': {u'prop_deny': u'false', u'prop_autogenerate': u'true'}, 'common_name': u'smiley', 'serial': '4'} cli=u'mac'/u'3.git:master'
+2019-05-09T21:57:04+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: "Thu May  9 21:57:04 2019 MANAGEMENT: CMD 'client-auth 19 0'"
+2019-05-09T21:57:04+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:04 2019 76.210.33.168:54133 Control Channel: TLSv1.2, cipher TLSv1/SSLv3 ECDHE-RSA-AES256-GCM-SHA384, 2048 bit RSA'
+2019-05-09T21:57:04+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:04 2019 76.210.33.168:54133 [smiley] Peer Connection Initiated with [AF_INET]76.210.33.168:54133'
+2019-05-09T21:57:04+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:04 2019 smiley/76.210.33.168:54133 OPTIONS IMPORT: compression parms modified'
+2019-05-09T21:57:04+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:04 2019 smiley/76.210.33.168:54133 MULTI: Learn: 172.27.232.19 -> smiley/76.210.33.168:54133'
+2019-05-09T21:57:04+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:04 2019 smiley/76.210.33.168:54133 MULTI: primary virtual IP for smiley/76.210.33.168:54133: 172.27.232.19'
+2019-05-09T21:57:05+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:05 2019 smiley/76.210.33.168:54133 Authenticate/Decrypt packet error: bad packet ID (may be a replay): [ #2 / time = (1557439021) Thu May  9 21:57:01 2019 ] -- see the man page entry for --no-replay and --replay-window for more info or silence this warning with --mute-replay-warnings'
+2019-05-09T21:57:05+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:05 2019 smiley/76.210.33.168:54133 TLS Error: incoming packet authentication failed from [AF_INET]76.210.33.168:54133'
+2019-05-09T21:57:06+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:06 2019 smiley/76.210.33.168:54133 Authenticate/Decrypt packet error: bad packet ID (may be a replay): [ #2 / time = (1557439021) Thu May  9 21:57:01 2019 ] -- see the man page entry for --no-replay and --replay-window for more info or silence this warning with --mute-replay-warnings'
+2019-05-09T21:57:06+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:06 2019 smiley/76.210.33.168:54133 TLS Error: incoming packet authentication failed from [AF_INET]76.210.33.168:54133'
+2019-05-09T21:57:07+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:07 2019 smiley/76.210.33.168:54133 Authenticate/Decrypt packet error: bad packet ID (may be a replay): [ #2 / time = (1557439021) Thu May  9 21:57:01 2019 ] -- see the man page entry for --no-replay and --replay-window for more info or silence this warning with --mute-replay-warnings'
+2019-05-09T21:57:07+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:07 2019 smiley/76.210.33.168:54133 TLS Error: incoming packet authentication failed from [AF_INET]76.210.33.168:54133'
+2019-05-09T21:57:08+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:08 2019 smiley/76.210.33.168:54133 Authenticate/Decrypt packet error: bad packet ID (may be a replay): [ #2 / time = (1557439021) Thu May  9 21:57:01 2019 ] -- see the man page entry for --no-replay and --replay-window for more info or silence this warning with --mute-replay-warnings'
+2019-05-09T21:57:08+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:08 2019 smiley/76.210.33.168:54133 TLS Error: incoming packet authentication failed from [AF_INET]76.210.33.168:54133'
+2019-05-09T21:57:09+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:09 2019 smiley/76.210.33.168:54133 Authenticate/Decrypt packet error: bad packet ID (may be a replay): [ #2 / time = (1557439021) Thu May  9 21:57:01 2019 ] -- see the man page entry for --no-replay and --replay-window for more info or silence this warning with --mute-replay-warnings'
+2019-05-09T21:57:09+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:09 2019 smiley/76.210.33.168:54133 TLS Error: incoming packet authentication failed from [AF_INET]76.210.33.168:54133'
+2019-05-09T21:57:10+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:10 2019 smiley/76.210.33.168:54133 Authenticate/Decrypt packet error: bad packet ID (may be a replay): [ #2 / time = (1557439021) Thu May  9 21:57:01 2019 ] -- see the man page entry for --no-replay and --replay-window for more info or silence this warning with --mute-replay-warnings'
+2019-05-09T21:57:10+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:10 2019 smiley/76.210.33.168:54133 TLS Error: incoming packet authentication failed from [AF_INET]76.210.33.168:54133'
+2019-05-09T21:57:11+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:11 2019 smiley/76.210.33.168:54133 Authenticate/Decrypt packet error: bad packet ID (may be a replay): [ #2 / time = (1557439021) Thu May  9 21:57:01 2019 ] -- see the man page entry for --no-replay and --replay-window for more info or silence this warning with --mute-replay-warnings'
+2019-05-09T21:57:11+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:11 2019 smiley/76.210.33.168:54133 TLS Error: incoming packet authentication failed from [AF_INET]76.210.33.168:54133'
+2019-05-09T21:57:12+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:12 2019 smiley/76.210.33.168:54133 Authenticate/Decrypt packet error: bad packet ID (may be a replay): [ #2 / time = (1557439021) Thu May  9 21:57:01 2019 ] -- see the man page entry for --no-replay and --replay-window for more info or silence this warning with --mute-replay-warnings'
+2019-05-09T21:57:12+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:12 2019 smiley/76.210.33.168:54133 TLS Error: incoming packet authentication failed from [AF_INET]76.210.33.168:54133'
+2019-05-09T21:57:13+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:13 2019 smiley/76.210.33.168:54133 Authenticate/Decrypt packet error: bad packet ID (may be a replay): [ #2 / time = (1557439021) Thu May  9 21:57:01 2019 ] -- see the man page entry for --no-replay and --replay-window for more info or silence this warning with --mute-replay-warnings'
+2019-05-09T21:57:13+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:13 2019 smiley/76.210.33.168:54133 TLS Error: incoming packet authentication failed from [AF_INET]76.210.33.168:54133'
+2019-05-09T21:57:14+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:14 2019 smiley/76.210.33.168:54133 Authenticate/Decrypt packet error: bad packet ID (may be a replay): [ #2 / time = (1557439021) Thu May  9 21:57:01 2019 ] -- see the man page entry for --no-replay and --replay-window for more info or silence this warning with --mute-replay-warnings'
+2019-05-09T21:57:14+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:14 2019 smiley/76.210.33.168:54133 TLS Error: incoming packet authentication failed from [AF_INET]76.210.33.168:54133'
+2019-05-09T21:57:15+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:15 2019 smiley/76.210.33.168:54133 Authenticate/Decrypt packet error: bad packet ID (may be a replay): [ #2 / time = (1557439021) Thu May  9 21:57:01 2019 ] -- see the man page entry for --no-replay and --replay-window for more info or silence this warning with --mute-replay-warnings'
+2019-05-09T21:57:15+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:15 2019 smiley/76.210.33.168:54133 TLS Error: incoming packet authentication failed from [AF_INET]76.210.33.168:54133'
+2019-05-09T21:57:16+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:16 2019 smiley/76.210.33.168:54133 Authenticate/Decrypt packet error: bad packet ID (may be a replay): [ #2 / time = (1557439021) Thu May  9 21:57:01 2019 ] -- see the man page entry for --no-replay and --replay-window for more info or silence this warning with --mute-replay-warnings'
+2019-05-09T21:57:16+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:16 2019 smiley/76.210.33.168:54133 TLS Error: incoming packet authentication failed from [AF_INET]76.210.33.168:54133'
+2019-05-09T21:57:18+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:18 2019 smiley/76.210.33.168:54133 Authenticate/Decrypt packet error: bad packet ID (may be a replay): [ #2 / time = (1557439021) Thu May  9 21:57:01 2019 ] -- see the man page entry for --no-replay and --replay-window for more info or silence this warning with --mute-replay-warnings'
+2019-05-09T21:57:18+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:18 2019 smiley/76.210.33.168:54133 TLS Error: incoming packet authentication failed from [AF_INET]76.210.33.168:54133'
+2019-05-09T21:57:19+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:19 2019 smiley/76.210.33.168:54133 Authenticate/Decrypt packet error: bad packet ID (may be a replay): [ #2 / time = (1557439021) Thu May  9 21:57:01 2019 ] -- see the man page entry for --no-replay and --replay-window for more info or silence this warning with --mute-replay-warnings'
+2019-05-09T21:57:19+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:19 2019 smiley/76.210.33.168:54133 TLS Error: incoming packet authentication failed from [AF_INET]76.210.33.168:54133'
+2019-05-09T21:57:20+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:20 2019 smiley/76.210.33.168:54133 Authenticate/Decrypt packet error: bad packet ID (may be a replay): [ #2 / time = (1557439021) Thu May  9 21:57:01 2019 ] -- see the man page entry for --no-replay and --replay-window for more info or silence this warning with --mute-replay-warnings'
+2019-05-09T21:57:20+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:20 2019 smiley/76.210.33.168:54133 TLS Error: incoming packet authentication failed from [AF_INET]76.210.33.168:54133'
+2019-05-09T21:57:21+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:21 2019 smiley/76.210.33.168:54133 Authenticate/Decrypt packet error: bad packet ID (may be a replay): [ #2 / time = (1557439021) Thu May  9 21:57:01 2019 ] -- see the man page entry for --no-replay and --replay-window for more info or silence this warning with --mute-replay-warnings'
+2019-05-09T21:57:21+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:21 2019 smiley/76.210.33.168:54133 TLS Error: incoming packet authentication failed from [AF_INET]76.210.33.168:54133'
+2019-05-09T21:57:22+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:22 2019 smiley/76.210.33.168:54133 Authenticate/Decrypt packet error: bad packet ID (may be a replay): [ #2 / time = (1557439021) Thu May  9 21:57:01 2019 ] -- see the man page entry for --no-replay and --replay-window for more info or silence this warning with --mute-replay-warnings'
+2019-05-09T21:57:22+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:22 2019 smiley/76.210.33.168:54133 TLS Error: incoming packet authentication failed from [AF_INET]76.210.33.168:54133'
+2019-05-09T21:57:23+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:23 2019 smiley/76.210.33.168:54133 Authenticate/Decrypt packet error: bad packet ID (may be a replay): [ #2 / time = (1557439021) Thu May  9 21:57:01 2019 ] -- see the man page entry for --no-replay and --replay-window for more info or silence this warning with --mute-replay-warnings'
+2019-05-09T21:57:23+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:23 2019 smiley/76.210.33.168:54133 TLS Error: incoming packet authentication failed from [AF_INET]76.210.33.168:54133'
+2019-05-09T21:57:24+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:24 2019 smiley/76.210.33.168:54133 Authenticate/Decrypt packet error: bad packet ID (may be a replay): [ #2 / time = (1557439021) Thu May  9 21:57:01 2019 ] -- see the man page entry for --no-replay and --replay-window for more info or silence this warning with --mute-replay-warnings'
+2019-05-09T21:57:24+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:24 2019 smiley/76.210.33.168:54133 TLS Error: incoming packet authentication failed from [AF_INET]76.210.33.168:54133'
+2019-05-09T21:57:25+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:25 2019 smiley/76.210.33.168:54133 Authenticate/Decrypt packet error: bad packet ID (may be a replay): [ #2 / time = (1557439021) Thu May  9 21:57:01 2019 ] -- see the man page entry for --no-replay and --replay-window for more info or silence this warning with --mute-replay-warnings'
+2019-05-09T21:57:25+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:25 2019 smiley/76.210.33.168:54133 TLS Error: incoming packet authentication failed from [AF_INET]76.210.33.168:54133'
+2019-05-09T21:57:26+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:26 2019 smiley/76.210.33.168:54133 Authenticate/Decrypt packet error: bad packet ID (may be a replay): [ #2 / time = (1557439021) Thu May  9 21:57:01 2019 ] -- see the man page entry for --no-replay and --replay-window for more info or silence this warning with --mute-replay-warnings'
+2019-05-09T21:57:26+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:26 2019 smiley/76.210.33.168:54133 TLS Error: incoming packet authentication failed from [AF_INET]76.210.33.168:54133'
+2019-05-09T21:57:27+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:27 2019 smiley/76.210.33.168:54133 Authenticate/Decrypt packet error: bad packet ID (may be a replay): [ #2 / time = (1557439021) Thu May  9 21:57:01 2019 ] -- see the man page entry for --no-replay and --replay-window for more info or silence this warning with --mute-replay-warnings'
+2019-05-09T21:57:27+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:27 2019 smiley/76.210.33.168:54133 TLS Error: incoming packet authentication failed from [AF_INET]76.210.33.168:54133'
+2019-05-09T21:57:28+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:28 2019 smiley/76.210.33.168:54133 Authenticate/Decrypt packet error: bad packet ID (may be a replay): [ #2 / time = (1557439021) Thu May  9 21:57:01 2019 ] -- see the man page entry for --no-replay and --replay-window for more info or silence this warning with --mute-replay-warnings'
+2019-05-09T21:57:28+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:28 2019 smiley/76.210.33.168:54133 TLS Error: incoming packet authentication failed from [AF_INET]76.210.33.168:54133'
+2019-05-09T21:57:30+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:30 2019 smiley/76.210.33.168:54133 Authenticate/Decrypt packet error: bad packet ID (may be a replay): [ #2 / time = (1557439021) Thu May  9 21:57:01 2019 ] -- see the man page entry for --no-replay and --replay-window for more info or silence this warning with --mute-replay-warnings'
+2019-05-09T21:57:30+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:30 2019 smiley/76.210.33.168:54133 TLS Error: incoming packet authentication failed from [AF_INET]76.210.33.168:54133'
+2019-05-09T21:57:31+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:31 2019 smiley/76.210.33.168:54133 Authenticate/Decrypt packet error: bad packet ID (may be a replay): [ #2 / time = (1557439021) Thu May  9 21:57:01 2019 ] -- see the man page entry for --no-replay and --replay-window for more info or silence this warning with --mute-replay-warnings'
+2019-05-09T21:57:31+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:31 2019 smiley/76.210.33.168:54133 TLS Error: incoming packet authentication failed from [AF_INET]76.210.33.168:54133'
+2019-05-09T21:57:32+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:32 2019 smiley/76.210.33.168:54133 Authenticate/Decrypt packet error: bad packet ID (may be a replay): [ #2 / time = (1557439021) Thu May  9 21:57:01 2019 ] -- see the man page entry for --no-replay and --replay-window for more info or silence this warning with --mute-replay-warnings'
+2019-05-09T21:57:32+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:32 2019 smiley/76.210.33.168:54133 TLS Error: incoming packet authentication failed from [AF_INET]76.210.33.168:54133'
+2019-05-09T21:57:33+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:33 2019 smiley/76.210.33.168:54133 Authenticate/Decrypt packet error: bad packet ID (may be a replay): [ #2 / time = (1557439021) Thu May  9 21:57:01 2019 ] -- see the man page entry for --no-replay and --replay-window for more info or silence this warning with --mute-replay-warnings'
+2019-05-09T21:57:33+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:33 2019 smiley/76.210.33.168:54133 TLS Error: incoming packet authentication failed from [AF_INET]76.210.33.168:54133'
+2019-05-09T21:57:34+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:34 2019 smiley/76.210.33.168:54133 Authenticate/Decrypt packet error: bad packet ID (may be a replay): [ #2 / time = (1557439021) Thu May  9 21:57:01 2019 ] -- see the man page entry for --no-replay and --replay-window for more info or silence this warning with --mute-replay-warnings'
+2019-05-09T21:57:34+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:34 2019 smiley/76.210.33.168:54133 TLS Error: incoming packet authentication failed from [AF_INET]76.210.33.168:54133'
+2019-05-09T21:57:35+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:35 2019 smiley/76.210.33.168:54133 Authenticate/Decrypt packet error: bad packet ID (may be a replay): [ #2 / time = (1557439021) Thu May  9 21:57:01 2019 ] -- see the man page entry for --no-replay and --replay-window for more info or silence this warning with --mute-replay-warnings'
+2019-05-09T21:57:35+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:35 2019 smiley/76.210.33.168:54133 TLS Error: incoming packet authentication failed from [AF_INET]76.210.33.168:54133'
+2019-05-09T21:57:36+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:36 2019 smiley/76.210.33.168:54133 Authenticate/Decrypt packet error: bad packet ID (may be a replay): [ #2 / time = (1557439021) Thu May  9 21:57:01 2019 ] -- see the man page entry for --no-replay and --replay-window for more info or silence this warning with --mute-replay-warnings'
+2019-05-09T21:57:36+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:36 2019 smiley/76.210.33.168:54133 TLS Error: incoming packet authentication failed from [AF_INET]76.210.33.168:54133'
+2019-05-09T21:57:37+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:37 2019 smiley/76.210.33.168:54133 Authenticate/Decrypt packet error: bad packet ID (may be a replay): [ #2 / time = (1557439021) Thu May  9 21:57:01 2019 ] -- see the man page entry for --no-replay and --replay-window for more info or silence this warning with --mute-replay-warnings'
+2019-05-09T21:57:37+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:37 2019 smiley/76.210.33.168:54133 TLS Error: incoming packet authentication failed from [AF_INET]76.210.33.168:54133'
+2019-05-09T21:57:38+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:38 2019 smiley/76.210.33.168:54133 Authenticate/Decrypt packet error: bad packet ID (may be a replay): [ #2 / time = (1557439021) Thu May  9 21:57:01 2019 ] -- see the man page entry for --no-replay and --replay-window for more info or silence this warning with --mute-replay-warnings'
+2019-05-09T21:57:38+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:38 2019 smiley/76.210.33.168:54133 TLS Error: incoming packet authentication failed from [AF_INET]76.210.33.168:54133'
+2019-05-09T21:57:39+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:39 2019 smiley/76.210.33.168:54133 Authenticate/Decrypt packet error: bad packet ID (may be a replay): [ #2 / time = (1557439021) Thu May  9 21:57:01 2019 ] -- see the man page entry for --no-replay and --replay-window for more info or silence this warning with --mute-replay-warnings'
+2019-05-09T21:57:39+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:39 2019 smiley/76.210.33.168:54133 TLS Error: incoming packet authentication failed from [AF_INET]76.210.33.168:54133'
+2019-05-09T21:57:40+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:40 2019 smiley/76.210.33.168:54133 Authenticate/Decrypt packet error: bad packet ID (may be a replay): [ #2 / time = (1557439021) Thu May  9 21:57:01 2019 ] -- see the man page entry for --no-replay and --replay-window for more info or silence this warning with --mute-replay-warnings'
+2019-05-09T21:57:40+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:40 2019 smiley/76.210.33.168:54133 TLS Error: incoming packet authentication failed from [AF_INET]76.210.33.168:54133'
+2019-05-09T21:57:42+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:42 2019 smiley/76.210.33.168:54133 Authenticate/Decrypt packet error: bad packet ID (may be a replay): [ #2 / time = (1557439021) Thu May  9 21:57:01 2019 ] -- see the man page entry for --no-replay and --replay-window for more info or silence this warning with --mute-replay-warnings'
+2019-05-09T21:57:42+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:42 2019 smiley/76.210.33.168:54133 TLS Error: incoming packet authentication failed from [AF_INET]76.210.33.168:54133'
+2019-05-09T21:57:43+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:43 2019 smiley/76.210.33.168:54133 Authenticate/Decrypt packet error: bad packet ID (may be a replay): [ #2 / time = (1557439021) Thu May  9 21:57:01 2019 ] -- see the man page entry for --no-replay and --replay-window for more info or silence this warning with --mute-replay-warnings'
+2019-05-09T21:57:43+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:43 2019 smiley/76.210.33.168:54133 TLS Error: incoming packet authentication failed from [AF_INET]76.210.33.168:54133'
+2019-05-09T21:57:44+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:44 2019 smiley/76.210.33.168:54133 Authenticate/Decrypt packet error: bad packet ID (may be a replay): [ #2 / time = (1557439021) Thu May  9 21:57:01 2019 ] -- see the man page entry for --no-replay and --replay-window for more info or silence this warning with --mute-replay-warnings'
+2019-05-09T21:57:44+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:44 2019 smiley/76.210.33.168:54133 TLS Error: incoming packet authentication failed from [AF_INET]76.210.33.168:54133'
+2019-05-09T21:57:46+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:46 2019 76.210.33.168:50055 TLS: Initial packet from [AF_INET]76.210.33.168:50055, sid=75b16727 efc3bc97'
+2019-05-09T21:57:47+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:47 2019 76.210.33.168:50055 Authenticate/Decrypt packet error: bad packet ID (may be a replay): [ #1 / time = (1557439066) Thu May  9 21:57:46 2019 ] -- see the man page entry for --no-replay and --replay-window for more info or silence this warning with --mute-replay-warnings'
+2019-05-09T21:57:47+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:47 2019 76.210.33.168:50055 TLS Error: incoming packet authentication failed from [AF_INET]76.210.33.168:50055'
+2019-05-09T21:57:48+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:48 2019 76.210.33.168:50055 Authenticate/Decrypt packet error: bad packet ID (may be a replay): [ #1 / time = (1557439066) Thu May  9 21:57:46 2019 ] -- see the man page entry for --no-replay and --replay-window for more info or silence this warning with --mute-replay-warnings'
+2019-05-09T21:57:48+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:48 2019 76.210.33.168:50055 TLS Error: incoming packet authentication failed from [AF_INET]76.210.33.168:50055'
+2019-05-09T21:57:49+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:49 2019 76.210.33.168:50055 Authenticate/Decrypt packet error: bad packet ID (may be a replay): [ #1 / time = (1557439066) Thu May  9 21:57:46 2019 ] -- see the man page entry for --no-replay and --replay-window for more info or silence this warning with --mute-replay-warnings'
+2019-05-09T21:57:49+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:49 2019 76.210.33.168:50055 TLS Error: incoming packet authentication failed from [AF_INET]76.210.33.168:50055'
+2019-05-09T21:57:50+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:50 2019 76.210.33.168:50055 Authenticate/Decrypt packet error: bad packet ID (may be a replay): [ #1 / time = (1557439066) Thu May  9 21:57:46 2019 ] -- see the man page entry for --no-replay and --replay-window for more info or silence this warning with --mute-replay-warnings'
+2019-05-09T21:57:50+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:50 2019 76.210.33.168:50055 TLS Error: incoming packet authentication failed from [AF_INET]76.210.33.168:50055'
+2019-05-09T21:57:51+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:51 2019 76.210.33.168:50055 Authenticate/Decrypt packet error: bad packet ID (may be a replay): [ #1 / time = (1557439066) Thu May  9 21:57:46 2019 ] -- see the man page entry for --no-replay and --replay-window for more info or silence this warning with --mute-replay-warnings'
+2019-05-09T21:57:51+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:51 2019 76.210.33.168:50055 TLS Error: incoming packet authentication failed from [AF_INET]76.210.33.168:50055'
+2019-05-09T21:57:52+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:52 2019 76.210.33.168:50055 Authenticate/Decrypt packet error: bad packet ID (may be a replay): [ #1 / time = (1557439066) Thu May  9 21:57:46 2019 ] -- see the man page entry for --no-replay and --replay-window for more info or silence this warning with --mute-replay-warnings'
+2019-05-09T21:57:52+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:52 2019 76.210.33.168:50055 TLS Error: incoming packet authentication failed from [AF_INET]76.210.33.168:50055'
+2019-05-09T21:57:53+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:53 2019 76.210.33.168:50055 Authenticate/Decrypt packet error: bad packet ID (may be a replay): [ #1 / time = (1557439066) Thu May  9 21:57:46 2019 ] -- see the man page entry for --no-replay and --replay-window for more info or silence this warning with --mute-replay-warnings'
+2019-05-09T21:57:53+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:53 2019 76.210.33.168:50055 TLS Error: incoming packet authentication failed from [AF_INET]76.210.33.168:50055'
+2019-05-09T21:57:54+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:54 2019 76.210.33.168:50055 Authenticate/Decrypt packet error: bad packet ID (may be a replay): [ #1 / time = (1557439066) Thu May  9 21:57:46 2019 ] -- see the man page entry for --no-replay and --replay-window for more info or silence this warning with --mute-replay-warnings'
+2019-05-09T21:57:54+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:54 2019 76.210.33.168:50055 TLS Error: incoming packet authentication failed from [AF_INET]76.210.33.168:50055'
+2019-05-09T21:57:56+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:56 2019 76.210.33.168:50055 Authenticate/Decrypt packet error: bad packet ID (may be a replay): [ #1 / time = (1557439066) Thu May  9 21:57:46 2019 ] -- see the man page entry for --no-replay and --replay-window for more info or silence this warning with --mute-replay-warnings'
+2019-05-09T21:57:56+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:56 2019 76.210.33.168:50055 TLS Error: incoming packet authentication failed from [AF_INET]76.210.33.168:50055'
+2019-05-09T21:57:57+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:57 2019 76.210.33.168:50055 Authenticate/Decrypt packet error: bad packet ID (may be a replay): [ #1 / time = (1557439066) Thu May  9 21:57:46 2019 ] -- see the man page entry for --no-replay and --replay-window for more info or silence this warning with --mute-replay-warnings'
+2019-05-09T21:57:57+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:57 2019 76.210.33.168:50055 TLS Error: incoming packet authentication failed from [AF_INET]76.210.33.168:50055'
+2019-05-09T21:57:58+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:58 2019 76.210.33.168:50055 Authenticate/Decrypt packet error: bad packet ID (may be a replay): [ #1 / time = (1557439066) Thu May  9 21:57:46 2019 ] -- see the man page entry for --no-replay and --replay-window for more info or silence this warning with --mute-replay-warnings'
+2019-05-09T21:57:58+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:58 2019 76.210.33.168:50055 TLS Error: incoming packet authentication failed from [AF_INET]76.210.33.168:50055'
+2019-05-09T21:57:59+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:59 2019 76.210.33.168:50055 Authenticate/Decrypt packet error: bad packet ID (may be a replay): [ #1 / time = (1557439066) Thu May  9 21:57:46 2019 ] -- see the man page entry for --no-replay and --replay-window for more info or silence this warning with --mute-replay-warnings'
+2019-05-09T21:57:59+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:57:59 2019 76.210.33.168:50055 TLS Error: incoming packet authentication failed from [AF_INET]76.210.33.168:50055'
+2019-05-09T21:58:00+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:58:00 2019 76.210.33.168:50055 Authenticate/Decrypt packet error: bad packet ID (may be a replay): [ #1 / time = (1557439066) Thu May  9 21:57:46 2019 ] -- see the man page entry for --no-replay and --replay-window for more info or silence this warning with --mute-replay-warnings'
+2019-05-09T21:58:00+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:58:00 2019 76.210.33.168:50055 TLS Error: incoming packet authentication failed from [AF_INET]76.210.33.168:50055'
+2019-05-09T21:58:01+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:58:01 2019 76.210.33.168:50055 Authenticate/Decrypt packet error: bad packet ID (may be a replay): [ #1 / time = (1557439066) Thu May  9 21:57:46 2019 ] -- see the man page entry for --no-replay and --replay-window for more info or silence this warning with --mute-replay-warnings'
+2019-05-09T21:58:01+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:58:01 2019 76.210.33.168:50055 TLS Error: incoming packet authentication failed from [AF_INET]76.210.33.168:50055'
+2019-05-09T21:58:02+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 21:58:02 2019 TCP connection established with [AF_INET]76.210.33.168:54418'
+2019-05-09T21:58:02+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 21:58:02 2019 76.210.33.168:54418 SIGTERM[soft,port-share-redirect] received, client-instance exiting'
+2019-05-09T21:58:45+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:58:45 2019 smiley/76.210.33.168:54133 [smiley] Inactivity timeout (--ping-restart), restarting'
+2019-05-09T21:58:45+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:58:45 2019 smiley/76.210.33.168:54133 SIGUSR1[soft,ping-restart] received, client-instance restarting'
+2019-05-09T21:58:46+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:58:46 2019 76.210.33.168:50055 TLS Error: TLS key negotiation failed to occur within 60 seconds (check your network connectivity)'
+2019-05-09T21:58:46+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:58:46 2019 76.210.33.168:50055 TLS Error: TLS handshake failed'
+2019-05-09T21:58:46+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:58:46 2019 76.210.33.168:50055 SIGUSR1[soft,tls-error] received, client-instance restarting'
+2019-05-09T21:59:14+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 21:59:14 2019 TCP connection established with [AF_INET]76.210.33.168:54427'
+2019-05-09T21:59:14+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 21:59:14 2019 76.210.33.168:54427 SIGTERM[soft,port-share-redirect] received, client-instance exiting'
+2019-05-09T21:59:30+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 21:59:30 2019 TCP connection established with [AF_INET]76.210.33.168:54430'
+2019-05-09T21:59:30+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 21:59:30 2019 76.210.33.168:54430 SIGTERM[soft,port-share-redirect] received, client-instance exiting'
+2019-05-09T21:59:31+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:59:31 2019 76.210.33.168:65243 TLS: Initial packet from [AF_INET]76.210.33.168:65243, sid=d4ebe4f5 3f3682c5'
+2019-05-09T21:59:31+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:59:31 2019 76.210.33.168:65243 VERIFY OK: depth=1, /CN=OpenVPN CA'
+2019-05-09T21:59:31+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:59:31 2019 76.210.33.168:65243 VERIFY OK: nsCertType=CLIENT'
+2019-05-09T21:59:31+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:59:31 2019 76.210.33.168:65243 VERIFY OK: depth=0, /CN=smiley'
+2019-05-09T21:59:31+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:59:31 2019 76.210.33.168:65243 peer info: IV_GUI_VER=ovpnmi_1.0.0'
+2019-05-09T21:59:31+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:59:31 2019 76.210.33.168:65243 peer info: IV_VER=3.git:master'
+2019-05-09T21:59:31+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:59:31 2019 76.210.33.168:65243 peer info: IV_PLAT=mac'
+2019-05-09T21:59:31+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:59:31 2019 76.210.33.168:65243 peer info: IV_NCP=2'
+2019-05-09T21:59:31+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:59:31 2019 76.210.33.168:65243 peer info: IV_TCPNL=1'
+2019-05-09T21:59:31+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:59:31 2019 76.210.33.168:65243 peer info: IV_PROTO=2'
+2019-05-09T21:59:31+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:59:31 2019 76.210.33.168:65243 peer info: IV_LZO=1'
+2019-05-09T21:59:31+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:59:31 2019 76.210.33.168:65243 peer info: IV_LZO_SWAP=1'
+2019-05-09T21:59:31+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:59:31 2019 76.210.33.168:65243 peer info: IV_LZ4=1'
+2019-05-09T21:59:31+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:59:31 2019 76.210.33.168:65243 peer info: IV_LZ4v2=1'
+2019-05-09T21:59:31+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:59:31 2019 76.210.33.168:65243 peer info: IV_COMP_STUB=1'
+2019-05-09T21:59:31+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:59:31 2019 76.210.33.168:65243 peer info: IV_COMP_STUBv2=1'
+2019-05-09T21:59:31+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:59:31 2019 76.210.33.168:65243 peer info: UV_ASCLI_VER=2.6.0.103'
+2019-05-09T21:59:31+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:59:31 2019 76.210.33.168:65243 peer info: UV_PLAT_REL=18.5.0'
+2019-05-09T21:59:31+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:59:31 2019 76.210.33.168:65243 peer info: IV_HWADDR=38:f9:d3:41:12:2e'
+2019-05-09T21:59:31+00:00 openvpnas2 openvpnas: [-] AUTH SUCCESS {'status': 0, 'session_id': '[redacted]', 'reason': 'SESSION_ID auth succeeded', 'serial_list': [], 'user': 'smiley', 'proplist': {u'prop_deny': u'false', u'prop_autogenerate': u'true'}, 'common_name': u'smiley', 'serial': '4'} cli=u'mac'/u'3.git:master'
+2019-05-09T21:59:31+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: "Thu May  9 21:59:31 2019 MANAGEMENT: CMD 'client-auth 21 0'"
+2019-05-09T21:59:31+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:59:31 2019 76.210.33.168:65243 Control Channel: TLSv1.2, cipher TLSv1/SSLv3 ECDHE-RSA-AES256-GCM-SHA384, 2048 bit RSA'
+2019-05-09T21:59:31+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:59:31 2019 76.210.33.168:65243 [smiley] Peer Connection Initiated with [AF_INET]76.210.33.168:65243'
+2019-05-09T21:59:31+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:59:31 2019 smiley/76.210.33.168:65243 OPTIONS IMPORT: compression parms modified'
+2019-05-09T21:59:31+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:59:31 2019 smiley/76.210.33.168:65243 MULTI: Learn: 172.27.232.20 -> smiley/76.210.33.168:65243'
+2019-05-09T21:59:31+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 21:59:31 2019 smiley/76.210.33.168:65243 MULTI: primary virtual IP for smiley/76.210.33.168:65243: 172.27.232.20'
+2019-05-09T21:59:31+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: "Thu May  9 21:59:31 2019 smiley/76.210.33.168:65243 SENT CONTROL [smiley]: 'PUSH_REPLY,explicit-exit-notify,topology subnet,route-delay 5 30,dhcp-pre-release,dhcp-renew,dhcp-release,route-metric 101,ping 12,ping-restart 50,auth-tokenSESS_ID,compress stub-v2,redirect-private def1,redirect-private bypass-dhcp,redirect-private autolocal,redirect-private bypass-dns,route-gateway 172.27.232.1,route 172.27.224.0 255.255.240.0,route 10.1.0.0 255.255.0.0,block-ipv6,ifconfig 172.27.232.20 255.255.248.0,peer-id 0,cipher AES-256-GCM' (status=1)"
+2019-05-09T21:59:31+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: "Thu May  9 21:59:31 2019 smiley/76.210.33.168:65243 Data Channel: using negotiated cipher 'AES-256-GCM'"
+2019-05-09T21:59:31+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: "Thu May  9 21:59:31 2019 smiley/76.210.33.168:65243 Outgoing Data Channel: Cipher 'AES-256-GCM' initialized with 256 bit key"
+2019-05-09T21:59:31+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: "Thu May  9 21:59:31 2019 smiley/76.210.33.168:65243 Incoming Data Channel: Cipher 'AES-256-GCM' initialized with 256 bit key"
+2019-05-09T22:04:20+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:04:20 2019 smiley/76.210.33.168:65243 SIGTERM[soft,remote-exit] received, client-instance exiting'
+2019-05-09T22:25:32+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:25:32 2019 TCP connection established with [AF_INET]94.176.148.227:54640'
+2019-05-09T22:25:32+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:25:32 2019 94.176.148.227:54640 SIGTERM[soft,port-share-redirect] received, client-instance exiting'
+2019-05-09T22:25:33+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:25:33 2019 TCP connection established with [AF_INET]94.176.148.227:54643'
+2019-05-09T22:25:33+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:25:33 2019 94.176.148.227:54643 SIGTERM[soft,port-share-redirect] received, client-instance exiting'
+2019-05-09T22:25:34+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:25:34 2019 94.176.148.227:49721 TLS: Initial packet from [AF_INET]94.176.148.227:49721, sid=f4195fa7 fa99af76'
+2019-05-09T22:25:35+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:25:35 2019 94.176.148.227:49721 VERIFY OK: depth=1, /CN=OpenVPN CA'
+2019-05-09T22:25:35+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:25:35 2019 94.176.148.227:49721 VERIFY OK: nsCertType=CLIENT'
+2019-05-09T22:25:35+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:25:35 2019 94.176.148.227:49721 VERIFY OK: depth=0, /CN=smiley'
+2019-05-09T22:25:35+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:25:35 2019 94.176.148.227:49721 peer info: IV_GUI_VER=ovpnmi_1.0.0'
+2019-05-09T22:25:35+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:25:35 2019 94.176.148.227:49721 peer info: IV_VER=3.git:master'
+2019-05-09T22:25:35+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:25:35 2019 94.176.148.227:49721 peer info: IV_PLAT=mac'
+2019-05-09T22:25:35+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:25:35 2019 94.176.148.227:49721 peer info: IV_NCP=2'
+2019-05-09T22:25:35+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:25:35 2019 94.176.148.227:49721 peer info: IV_TCPNL=1'
+2019-05-09T22:25:35+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:25:35 2019 94.176.148.227:49721 peer info: IV_PROTO=2'
+2019-05-09T22:25:35+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:25:35 2019 94.176.148.227:49721 peer info: IV_LZO=1'
+2019-05-09T22:25:35+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:25:35 2019 94.176.148.227:49721 peer info: IV_LZO_SWAP=1'
+2019-05-09T22:25:35+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:25:35 2019 94.176.148.227:49721 peer info: IV_LZ4=1'
+2019-05-09T22:25:35+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:25:35 2019 94.176.148.227:49721 peer info: IV_LZ4v2=1'
+2019-05-09T22:25:35+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:25:35 2019 94.176.148.227:49721 peer info: IV_COMP_STUB=1'
+2019-05-09T22:25:35+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:25:35 2019 94.176.148.227:49721 peer info: IV_COMP_STUBv2=1'
+2019-05-09T22:25:35+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:25:35 2019 94.176.148.227:49721 peer info: UV_ASCLI_VER=2.6.0.103'
+2019-05-09T22:25:35+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:25:35 2019 94.176.148.227:49721 peer info: UV_PLAT_REL=18.5.0'
+2019-05-09T22:25:35+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:25:35 2019 94.176.148.227:49721 peer info: IV_HWADDR=00:00:00:00:00:00'
+2019-05-09T22:25:35+00:00 openvpnas2 openvpnas: [-] AUTH SUCCESS {'status': 0, 'session_id': '[redacted]', 'reason': 'SESSION_ID auth succeeded', 'serial_list': [], 'user': 'smiley', 'proplist': {u'prop_deny': u'false', u'prop_autogenerate': u'true'}, 'common_name': u'smiley', 'serial': '4'} cli=u'mac'/u'3.git:master'
+2019-05-09T22:25:35+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: "Thu May  9 22:25:35 2019 MANAGEMENT: CMD 'client-auth 22 0'"
+2019-05-09T22:25:36+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:25:36 2019 94.176.148.227:49721 Control Channel: TLSv1.2, cipher TLSv1/SSLv3 ECDHE-RSA-AES256-GCM-SHA384, 2048 bit RSA'
+2019-05-09T22:25:36+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:25:36 2019 94.176.148.227:49721 [smiley] Peer Connection Initiated with [AF_INET]94.176.148.227:49721'
+2019-05-09T22:25:36+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:25:36 2019 smiley/94.176.148.227:49721 OPTIONS IMPORT: compression parms modified'
+2019-05-09T22:25:36+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:25:36 2019 smiley/94.176.148.227:49721 MULTI: Learn: 172.27.232.21 -> smiley/94.176.148.227:49721'
+2019-05-09T22:25:36+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:25:36 2019 smiley/94.176.148.227:49721 MULTI: primary virtual IP for smiley/94.176.148.227:49721: 172.27.232.21'
+2019-05-09T22:25:36+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: "Thu May  9 22:25:36 2019 smiley/94.176.148.227:49721 SENT CONTROL [smiley]: 'PUSH_REPLY,explicit-exit-notify,topology subnet,route-delay 5 30,dhcp-pre-release,dhcp-renew,dhcp-release,route-metric 101,ping 12,ping-restart 50,auth-tokenSESS_ID,compress stub-v2,redirect-private def1,redirect-private bypass-dhcp,redirect-private autolocal,redirect-private bypass-dns,route-gateway 172.27.232.1,route 172.27.224.0 255.255.240.0,route 10.1.0.0 255.255.0.0,block-ipv6,ifconfig 172.27.232.21 255.255.248.0,peer-id 0,cipher AES-256-GCM' (status=1)"
+2019-05-09T22:25:36+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: "Thu May  9 22:25:36 2019 smiley/94.176.148.227:49721 Data Channel: using negotiated cipher 'AES-256-GCM'"
+2019-05-09T22:25:36+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: "Thu May  9 22:25:36 2019 smiley/94.176.148.227:49721 Outgoing Data Channel: Cipher 'AES-256-GCM' initialized with 256 bit key"
+2019-05-09T22:25:36+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: "Thu May  9 22:25:36 2019 smiley/94.176.148.227:49721 Incoming Data Channel: Cipher 'AES-256-GCM' initialized with 256 bit key"
+2019-05-09T22:28:48+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:28:48 2019 smiley/94.176.148.227:49721 SIGTERM[soft,remote-exit] received, client-instance exiting'
+2019-05-09T22:28:48+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:28:48 2019 TCP connection established with [AF_INET]94.176.148.227:54724'
+2019-05-09T22:28:48+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:28:48 2019 94.176.148.227:54724 SIGTERM[soft,port-share-redirect] received, client-instance exiting'
+2019-05-09T22:29:20+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:29:20 2019 TCP connection established with [AF_INET]169.57.213.133:54781'
+2019-05-09T22:29:20+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:29:20 2019 169.57.213.133:54781 SIGTERM[soft,port-share-redirect] received, client-instance exiting'
+2019-05-09T22:29:22+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:29:21 2019 TCP connection established with [AF_INET]169.57.213.133:54782'
+2019-05-09T22:29:22+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:29:21 2019 169.57.213.133:54782 SIGTERM[soft,port-share-redirect] received, client-instance exiting'
+2019-05-09T22:30:24+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:30:24 2019 TCP connection established with [AF_INET]169.57.213.133:54800'
+2019-05-09T22:30:24+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:30:24 2019 169.57.213.133:54800 SIGTERM[soft,port-share-redirect] received, client-instance exiting'
+2019-05-09T22:30:33+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:30:33 2019 TCP connection established with [AF_INET]169.57.213.133:54802'
+2019-05-09T22:30:33+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:30:33 2019 169.57.213.133:54802 SIGTERM[soft,port-share-redirect] received, client-instance exiting'
+2019-05-09T22:30:35+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:30:35 2019 TCP connection established with [AF_INET]169.57.213.133:54803'
+2019-05-09T22:30:35+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:30:35 2019 169.57.213.133:54803 SIGTERM[soft,port-share-redirect] received, client-instance exiting'
+2019-05-09T22:31:37+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:31:37 2019 TCP connection established with [AF_INET]169.57.213.133:54814'
+2019-05-09T22:31:37+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:31:37 2019 169.57.213.133:54814 SIGTERM[soft,port-share-redirect] received, client-instance exiting'
+2019-05-09T22:31:58+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:31:58 2019 TCP connection established with [AF_INET]195.206.107.220:54852'
+2019-05-09T22:31:58+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:31:58 2019 195.206.107.220:54852 SIGTERM[soft,port-share-redirect] received, client-instance exiting'
+2019-05-09T22:31:59+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:31:59 2019 TCP connection established with [AF_INET]195.206.107.220:54853'
+2019-05-09T22:31:59+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:31:59 2019 195.206.107.220:54853 SIGTERM[soft,port-share-redirect] received, client-instance exiting'
+2019-05-09T22:33:01+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:33:01 2019 TCP connection established with [AF_INET]195.206.107.220:54871'
+2019-05-09T22:33:01+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:33:01 2019 195.206.107.220:54871 SIGTERM[soft,port-share-redirect] received, client-instance exiting'
+2019-05-09T22:33:17+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:33:17 2019 TCP connection established with [AF_INET]178.128.229.53:54913'
+2019-05-09T22:33:17+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:33:17 2019 178.128.229.53:54913 SIGTERM[soft,port-share-redirect] received, client-instance exiting'
+2019-05-09T22:33:18+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:33:18 2019 TCP connection established with [AF_INET]178.128.229.53:54914'
+2019-05-09T22:33:18+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:33:18 2019 178.128.229.53:54914 SIGTERM[soft,port-share-redirect] received, client-instance exiting'
+2019-05-09T22:33:18+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:33:18 2019 178.128.229.53:56327 TLS: Initial packet from [AF_INET]178.128.229.53:56327, sid=42a28418 2f2de6b2'
+2019-05-09T22:33:18+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:33:18 2019 178.128.229.53:56327 VERIFY OK: depth=1, /CN=OpenVPN CA'
+2019-05-09T22:33:18+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:33:18 2019 178.128.229.53:56327 VERIFY OK: nsCertType=CLIENT'
+2019-05-09T22:33:18+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:33:18 2019 178.128.229.53:56327 VERIFY OK: depth=0, /CN=smiley'
+2019-05-09T22:33:18+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:33:18 2019 178.128.229.53:56327 peer info: IV_GUI_VER=ovpnmi_1.0.0'
+2019-05-09T22:33:18+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:33:18 2019 178.128.229.53:56327 peer info: IV_VER=3.git:master'
+2019-05-09T22:33:18+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:33:18 2019 178.128.229.53:56327 peer info: IV_PLAT=mac'
+2019-05-09T22:33:18+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:33:18 2019 178.128.229.53:56327 peer info: IV_NCP=2'
+2019-05-09T22:33:18+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:33:18 2019 178.128.229.53:56327 peer info: IV_TCPNL=1'
+2019-05-09T22:33:18+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:33:18 2019 178.128.229.53:56327 peer info: IV_PROTO=2'
+2019-05-09T22:33:18+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:33:18 2019 178.128.229.53:56327 peer info: IV_LZO=1'
+2019-05-09T22:33:18+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:33:18 2019 178.128.229.53:56327 peer info: IV_LZO_SWAP=1'
+2019-05-09T22:33:18+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:33:18 2019 178.128.229.53:56327 peer info: IV_LZ4=1'
+2019-05-09T22:33:18+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:33:18 2019 178.128.229.53:56327 peer info: IV_LZ4v2=1'
+2019-05-09T22:33:18+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:33:18 2019 178.128.229.53:56327 peer info: IV_COMP_STUB=1'
+2019-05-09T22:33:18+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:33:18 2019 178.128.229.53:56327 peer info: IV_COMP_STUBv2=1'
+2019-05-09T22:33:18+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:33:18 2019 178.128.229.53:56327 peer info: UV_ASCLI_VER=2.6.0.103'
+2019-05-09T22:33:18+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:33:18 2019 178.128.229.53:56327 peer info: UV_PLAT_REL=18.5.0'
+2019-05-09T22:33:18+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:33:18 2019 178.128.229.53:56327 peer info: IV_HWADDR=00:00:00:00:00:00'
+2019-05-09T22:33:18+00:00 openvpnas2 openvpnas: [-] AUTH SUCCESS {'status': 0, 'session_id': '[redacted]', 'reason': 'SESSION_ID auth succeeded', 'serial_list': [], 'user': 'smiley', 'proplist': {u'prop_deny': u'false', u'prop_autogenerate': u'true'}, 'common_name': u'smiley', 'serial': '4'} cli=u'mac'/u'3.git:master'
+2019-05-09T22:33:18+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: "Thu May  9 22:33:18 2019 MANAGEMENT: CMD 'client-auth 23 0'"
+2019-05-09T22:33:18+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:33:18 2019 178.128.229.53:56327 Control Channel: TLSv1.2, cipher TLSv1/SSLv3 ECDHE-RSA-AES256-GCM-SHA384, 2048 bit RSA'
+2019-05-09T22:33:18+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:33:18 2019 178.128.229.53:56327 [smiley] Peer Connection Initiated with [AF_INET]178.128.229.53:56327'
+2019-05-09T22:33:18+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:33:18 2019 smiley/178.128.229.53:56327 OPTIONS IMPORT: compression parms modified'
+2019-05-09T22:33:18+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:33:18 2019 smiley/178.128.229.53:56327 MULTI: Learn: 172.27.232.22 -> smiley/178.128.229.53:56327'
+2019-05-09T22:33:18+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:33:18 2019 smiley/178.128.229.53:56327 MULTI: primary virtual IP for smiley/178.128.229.53:56327: 172.27.232.22'
+2019-05-09T22:33:18+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: "Thu May  9 22:33:18 2019 smiley/178.128.229.53:56327 SENT CONTROL [smiley]: 'PUSH_REPLY,explicit-exit-notify,topology subnet,route-delay 5 30,dhcp-pre-release,dhcp-renew,dhcp-release,route-metric 101,ping 12,ping-restart 50,auth-tokenSESS_ID,compress stub-v2,redirect-private def1,redirect-private bypass-dhcp,redirect-private autolocal,redirect-private bypass-dns,route-gateway 172.27.232.1,route 172.27.224.0 255.255.240.0,route 10.1.0.0 255.255.0.0,block-ipv6,ifconfig 172.27.232.22 255.255.248.0,peer-id 0,cipher AES-256-GCM' (status=1)"
+2019-05-09T22:33:18+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: "Thu May  9 22:33:18 2019 smiley/178.128.229.53:56327 Data Channel: using negotiated cipher 'AES-256-GCM'"
+2019-05-09T22:33:18+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: "Thu May  9 22:33:18 2019 smiley/178.128.229.53:56327 Outgoing Data Channel: Cipher 'AES-256-GCM' initialized with 256 bit key"
+2019-05-09T22:33:18+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: "Thu May  9 22:33:18 2019 smiley/178.128.229.53:56327 Incoming Data Channel: Cipher 'AES-256-GCM' initialized with 256 bit key"
+2019-05-09T22:33:26+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:33:26 2019 smiley/178.128.229.53:56327 SIGTERM[soft,remote-exit] received, client-instance exiting'
+2019-05-09T22:33:26+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:33:26 2019 TCP connection established with [AF_INET]178.128.229.53:54919'
+2019-05-09T22:33:26+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:33:26 2019 178.128.229.53:54919 SIGTERM[soft,port-share-redirect] received, client-instance exiting'
+2019-05-09T22:33:49+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:33:49 2019 TCP connection established with [AF_INET]103.75.119.117:54971'
+2019-05-09T22:33:49+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:33:49 2019 103.75.119.117:54971 SIGTERM[soft,port-share-redirect] received, client-instance exiting'
+2019-05-09T22:33:51+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:33:51 2019 TCP connection established with [AF_INET]103.75.119.117:54975'
+2019-05-09T22:33:51+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:33:51 2019 103.75.119.117:54975 SIGTERM[soft,port-share-redirect] received, client-instance exiting'
+2019-05-09T22:34:53+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:34:53 2019 TCP connection established with [AF_INET]71.85.118.117:55026'
+2019-05-09T22:34:53+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:34:53 2019 71.85.118.117:55026 SIGTERM[soft,port-share-redirect] received, client-instance exiting'
+2019-05-09T22:35:04+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:35:04 2019 TCP connection established with [AF_INET]71.85.118.117:55029'
+2019-05-09T22:35:04+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:35:04 2019 71.85.118.117:55029 SIGTERM[soft,port-share-redirect] received, client-instance exiting'
+2019-05-09T22:35:05+00:00 openvpnas2 openvpnas: [-] LDAP exception on ldap://10.1.1.92/ (facility='search (u'DC=smileytools, DC=net', 2, '(sAMAccountName=jimmy)')'): user not found: auth/authldap:186,python2.7/threading:774,python2.7/threading:801,python2.7/threading:754,python/threadpool:210,python/context:59,python/context:37,auth/authldap:144,auth/authldap:186,util/error:61,util/error:44 (user='jimmy')
+2019-05-09T22:35:07+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:35:07 2019 TCP connection established with [AF_INET]71.85.118.117:55033'
+2019-05-09T22:35:07+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:35:07 2019 71.85.118.117:55033 SIGTERM[soft,port-share-redirect] received, client-instance exiting'
+2019-05-09T22:35:07+00:00 openvpnas2 openvpnas: [-] LDAP exception on ldap://10.1.1.92/ (facility='search (u'DC=smileytools, DC=net', 2, '(sAMAccountName=jimmy)')'): user not found: auth/authldap:186,python2.7/threading:774,python2.7/threading:801,python2.7/threading:754,python/threadpool:210,python/context:59,python/context:37,auth/authldap:144,auth/authldap:186,util/error:61,util/error:44 (user='jimmy')
+2019-05-09T22:35:09+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:35:09 2019 TCP connection established with [AF_INET]71.85.118.117:55034'
+2019-05-09T22:35:09+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:35:09 2019 71.85.118.117:55034 SIGTERM[soft,port-share-redirect] received, client-instance exiting'
+2019-05-09T22:35:09+00:00 openvpnas2 openvpnas: [-] LDAP exception on ldap://10.1.1.92/ (facility='search (u'DC=smileytools, DC=net', 2, '(sAMAccountName=jimmy)')'): user not found: auth/authldap:186,python2.7/threading:774,python2.7/threading:801,python2.7/threading:754,python/threadpool:210,python/context:59,python/context:37,auth/authldap:144,auth/authldap:186,util/error:61,util/error:44 (user='jimmy')
+2019-05-09T22:35:13+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:35:13 2019 TCP connection established with [AF_INET]71.85.118.117:55037'
+2019-05-09T22:35:13+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:35:13 2019 71.85.118.117:55037 SIGTERM[soft,port-share-redirect] received, client-instance exiting'
+2019-05-09T22:35:13+00:00 openvpnas2 openvpnas: [-] LDAP exception on ldap://10.1.1.92/ (facility='search (u'DC=smileytools, DC=net', 2, '(sAMAccountName=billy)')'): user not found: auth/authldap:186,python2.7/threading:774,python2.7/threading:801,python2.7/threading:754,python/threadpool:210,python/context:59,python/context:37,auth/authldap:144,auth/authldap:186,util/error:61,util/error:44 (user='billy')
+2019-05-09T22:35:15+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:35:15 2019 TCP connection established with [AF_INET]71.85.118.117:55038'
+2019-05-09T22:35:15+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:35:15 2019 71.85.118.117:55038 SIGTERM[soft,port-share-redirect] received, client-instance exiting'
+2019-05-09T22:35:15+00:00 openvpnas2 openvpnas: [-] LDAP exception on ldap://10.1.1.92/ (facility='search (u'DC=smileytools, DC=net', 2, '(sAMAccountName=billy)')'): user not found: auth/authldap:186,python2.7/threading:774,python2.7/threading:801,python2.7/threading:754,python/threadpool:210,python/context:59,python/context:37,auth/authldap:144,auth/authldap:186,util/error:61,util/error:44 (user='billy')
+2019-05-09T22:35:17+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:35:17 2019 TCP connection established with [AF_INET]71.85.118.117:55039'
+2019-05-09T22:35:17+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:35:17 2019 71.85.118.117:55039 SIGTERM[soft,port-share-redirect] received, client-instance exiting'
+2019-05-09T22:35:17+00:00 openvpnas2 openvpnas: [-] LDAP exception on ldap://10.1.1.92/ (facility='search (u'DC=smileytools, DC=net', 2, '(sAMAccountName=billy)')'): user not found: auth/authldap:186,python2.7/threading:774,python2.7/threading:801,python2.7/threading:754,python/threadpool:210,python/context:59,python/context:37,auth/authldap:144,auth/authldap:186,util/error:61,util/error:44 (user='billy')
+2019-05-09T22:35:22+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:35:22 2019 TCP connection established with [AF_INET]71.85.118.117:55040'
+2019-05-09T22:35:22+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:35:22 2019 71.85.118.117:55040 SIGTERM[soft,port-share-redirect] received, client-instance exiting'
+2019-05-09T22:35:23+00:00 openvpnas2 openvpnas: [-] LDAP invalid credentials on ldap://10.1.1.92/: {'info': '80090308: LdapErr: DSID-0C09042A, comment: AcceptSecurityContext error, data 52e, v3839', 'desc': 'Invalid credentials'} (facility='user_bind on u'CN=Steve Lockedout,CN=Users,DC=smileytools,DC=net' via search (u'DC=smileytools, DC=net', 2, '(sAMAccountName=steve)')') (user='steve')
+2019-05-09T22:35:24+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:35:24 2019 TCP connection established with [AF_INET]71.85.118.117:55041'
+2019-05-09T22:35:24+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:35:24 2019 71.85.118.117:55041 SIGTERM[soft,port-share-redirect] received, client-instance exiting'
+2019-05-09T22:35:24+00:00 openvpnas2 openvpnas: [-] LDAP invalid credentials on ldap://10.1.1.92/: {'info': '80090308: LdapErr: DSID-0C09042A, comment: AcceptSecurityContext error, data 52e, v3839', 'desc': 'Invalid credentials'} (facility='user_bind on u'CN=Steve Lockedout,CN=Users,DC=smileytools,DC=net' via search (u'DC=smileytools, DC=net', 2, '(sAMAccountName=steve)')') (user='steve')
+2019-05-09T22:35:27+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:35:27 2019 TCP connection established with [AF_INET]71.85.118.117:55042'
+2019-05-09T22:35:27+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:35:27 2019 71.85.118.117:55042 SIGTERM[soft,port-share-redirect] received, client-instance exiting'
+2019-05-09T22:35:27+00:00 openvpnas2 openvpnas: [-] LDAP invalid credentials on ldap://10.1.1.92/: {'info': '80090308: LdapErr: DSID-0C09042A, comment: AcceptSecurityContext error, data 52e, v3839', 'desc': 'Invalid credentials'} (facility='user_bind on u'CN=Steve Lockedout,CN=Users,DC=smileytools,DC=net' via search (u'DC=smileytools, DC=net', 2, '(sAMAccountName=steve)')') (user='steve')
+2019-05-09T22:35:32+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:35:32 2019 TCP connection established with [AF_INET]71.85.118.117:55046'
+2019-05-09T22:35:32+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:35:32 2019 71.85.118.117:55046 SIGTERM[soft,port-share-redirect] received, client-instance exiting'
+2019-05-09T22:35:32+00:00 openvpnas2 openvpnas: [-] LDAP exception on ldap://10.1.1.92/ (facility='search (u'DC=smileytools, DC=net', 2, '(sAMAccountName=ron)')'): user not found: auth/authldap:186,python2.7/threading:774,python2.7/threading:801,python2.7/threading:754,python/threadpool:210,python/context:59,python/context:37,auth/authldap:144,auth/authldap:186,util/error:61,util/error:44 (user='ron')
+2019-05-09T22:35:33+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:35:33 2019 TCP connection established with [AF_INET]71.85.118.117:55047'
+2019-05-09T22:35:33+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:35:33 2019 71.85.118.117:55047 SIGTERM[soft,port-share-redirect] received, client-instance exiting'
+2019-05-09T22:35:33+00:00 openvpnas2 openvpnas: [-] LDAP exception on ldap://10.1.1.92/ (facility='search (u'DC=smileytools, DC=net', 2, '(sAMAccountName=ron)')'): user not found: auth/authldap:186,python2.7/threading:774,python2.7/threading:801,python2.7/threading:754,python/threadpool:210,python/context:59,python/context:37,auth/authldap:144,auth/authldap:186,util/error:61,util/error:44 (user='ron')
+2019-05-09T22:35:35+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:35:35 2019 TCP connection established with [AF_INET]71.85.118.117:55048'
+2019-05-09T22:35:35+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:35:35 2019 71.85.118.117:55048 SIGTERM[soft,port-share-redirect] received, client-instance exiting'
+2019-05-09T22:35:35+00:00 openvpnas2 openvpnas: [-] LDAP exception on ldap://10.1.1.92/ (facility='search (u'DC=smileytools, DC=net', 2, '(sAMAccountName=ron)')'): user not found: auth/authldap:186,python2.7/threading:774,python2.7/threading:801,python2.7/threading:754,python/threadpool:210,python/context:59,python/context:37,auth/authldap:144,auth/authldap:186,util/error:61,util/error:44 (user='ron')
+2019-05-09T22:35:51+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:35:51 2019 TCP connection established with [AF_INET]71.85.118.117:55050'
+2019-05-09T22:35:51+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:35:51 2019 71.85.118.117:55050 SIGTERM[soft,port-share-redirect] received, client-instance exiting'
+2019-05-09T22:35:51+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:35:51 2019 TCP connection established with [AF_INET]71.85.118.117:55051'
+2019-05-09T22:35:51+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:35:51 2019 71.85.118.117:55051 SIGTERM[soft,port-share-redirect] received, client-instance exiting'
+2019-05-09T22:35:52+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:35:52 2019 71.85.118.117:59535 TLS: Initial packet from [AF_INET]71.85.118.117:59535, sid=ccd9e5b5 d7d8b692'
+2019-05-09T22:35:52+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:35:52 2019 71.85.118.117:59535 VERIFY OK: depth=1, /CN=OpenVPN CA'
+2019-05-09T22:35:52+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:35:52 2019 71.85.118.117:59535 VERIFY OK: nsCertType=CLIENT'
+2019-05-09T22:35:52+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:35:52 2019 71.85.118.117:59535 VERIFY OK: depth=0, /CN=smiley'
+2019-05-09T22:35:52+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:35:52 2019 71.85.118.117:59535 peer info: IV_GUI_VER=ovpnmi_1.0.0'
+2019-05-09T22:35:52+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:35:52 2019 71.85.118.117:59535 peer info: IV_VER=3.git:master'
+2019-05-09T22:35:52+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:35:52 2019 71.85.118.117:59535 peer info: IV_PLAT=mac'
+2019-05-09T22:35:52+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:35:52 2019 71.85.118.117:59535 peer info: IV_NCP=2'
+2019-05-09T22:35:52+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:35:52 2019 71.85.118.117:59535 peer info: IV_TCPNL=1'
+2019-05-09T22:35:52+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:35:52 2019 71.85.118.117:59535 peer info: IV_PROTO=2'
+2019-05-09T22:35:52+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:35:52 2019 71.85.118.117:59535 peer info: IV_LZO=1'
+2019-05-09T22:35:52+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:35:52 2019 71.85.118.117:59535 peer info: IV_LZO_SWAP=1'
+2019-05-09T22:35:52+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:35:52 2019 71.85.118.117:59535 peer info: IV_LZ4=1'
+2019-05-09T22:35:52+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:35:52 2019 71.85.118.117:59535 peer info: IV_LZ4v2=1'
+2019-05-09T22:35:52+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:35:52 2019 71.85.118.117:59535 peer info: IV_COMP_STUB=1'
+2019-05-09T22:35:52+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:35:52 2019 71.85.118.117:59535 peer info: IV_COMP_STUBv2=1'
+2019-05-09T22:35:52+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:35:52 2019 71.85.118.117:59535 peer info: UV_ASCLI_VER=2.6.0.103'
+2019-05-09T22:35:52+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:35:52 2019 71.85.118.117:59535 peer info: UV_PLAT_REL=18.5.0'
+2019-05-09T22:35:52+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:35:52 2019 71.85.118.117:59535 peer info: IV_HWADDR=38:f9:d3:41:12:2e'
+2019-05-09T22:35:52+00:00 openvpnas2 openvpnas: [-] AUTH SUCCESS {'status': 0, 'session_id': '[redacted]', 'reason': 'SESSION_ID auth succeeded', 'serial_list': [], 'user': 'smiley', 'proplist': {u'prop_deny': u'false', u'prop_autogenerate': u'true'}, 'common_name': u'smiley', 'serial': '4'} cli=u'mac'/u'3.git:master'
+2019-05-09T22:35:52+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: "Thu May  9 22:35:52 2019 MANAGEMENT: CMD 'client-auth 24 0'"
+2019-05-09T22:35:52+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:35:52 2019 71.85.118.117:59535 Control Channel: TLSv1.2, cipher TLSv1/SSLv3 ECDHE-RSA-AES256-GCM-SHA384, 2048 bit RSA'
+2019-05-09T22:35:52+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:35:52 2019 71.85.118.117:59535 [smiley] Peer Connection Initiated with [AF_INET]71.85.118.117:59535'
+2019-05-09T22:35:52+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:35:52 2019 smiley/71.85.118.117:59535 OPTIONS IMPORT: compression parms modified'
+2019-05-09T22:35:52+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:35:52 2019 smiley/71.85.118.117:59535 MULTI: Learn: 172.27.232.23 -> smiley/71.85.118.117:59535'
+2019-05-09T22:35:52+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:35:52 2019 smiley/71.85.118.117:59535 MULTI: primary virtual IP for smiley/71.85.118.117:59535: 172.27.232.23'
+2019-05-09T22:35:52+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: "Thu May  9 22:35:52 2019 smiley/71.85.118.117:59535 SENT CONTROL [smiley]: 'PUSH_REPLY,explicit-exit-notify,topology subnet,route-delay 5 30,dhcp-pre-release,dhcp-renew,dhcp-release,route-metric 101,ping 12,ping-restart 50,auth-tokenSESS_ID,compress stub-v2,redirect-private def1,redirect-private bypass-dhcp,redirect-private autolocal,redirect-private bypass-dns,route-gateway 172.27.232.1,route 172.27.224.0 255.255.240.0,route 10.1.0.0 255.255.0.0,block-ipv6,ifconfig 172.27.232.23 255.255.248.0,peer-id 0,cipher AES-256-GCM' (status=1)"
+2019-05-09T22:35:52+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: "Thu May  9 22:35:52 2019 smiley/71.85.118.117:59535 Data Channel: using negotiated cipher 'AES-256-GCM'"
+2019-05-09T22:35:52+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: "Thu May  9 22:35:52 2019 smiley/71.85.118.117:59535 Outgoing Data Channel: Cipher 'AES-256-GCM' initialized with 256 bit key"
+2019-05-09T22:35:52+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: "Thu May  9 22:35:52 2019 smiley/71.85.118.117:59535 Incoming Data Channel: Cipher 'AES-256-GCM' initialized with 256 bit key"
+2019-05-09T22:38:36+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:38:36 2019 smiley/71.85.118.117:59535 SIGTERM[soft,remote-exit] received, client-instance exiting'
+2019-05-09T22:38:36+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:38:36 2019 TCP connection established with [AF_INET]71.85.118.117:55064'
+2019-05-09T22:38:36+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:38:36 2019 71.85.118.117:55064 SIGTERM[soft,port-share-redirect] received, client-instance exiting'
+2019-05-09T22:39:15+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:39:15 2019 TCP connection established with [AF_INET]71.85.118.117:55136'
+2019-05-09T22:39:15+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:39:15 2019 71.85.118.117:55136 SIGTERM[soft,port-share-redirect] received, client-instance exiting'
+2019-05-09T22:39:31+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:39:31 2019 TCP connection established with [AF_INET]71.85.118.117:55139'
+2019-05-09T22:39:31+00:00 openvpnas2 openvpnas: [-] OVPN 0 OUT: 'Thu May  9 22:39:31 2019 71.85.118.117:55139 SIGTERM[soft,port-share-redirect] received, client-instance exiting'
+2019-05-09T22:39:31+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:39:31 2019 71.85.118.117:59087 TLS: Initial packet from [AF_INET]71.85.118.117:59087, sid=a8bd7666 ed070345'
+2019-05-09T22:39:31+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:39:31 2019 71.85.118.117:59087 VERIFY OK: depth=1, /CN=OpenVPN CA'
+2019-05-09T22:39:31+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:39:31 2019 71.85.118.117:59087 VERIFY OK: nsCertType=CLIENT'
+2019-05-09T22:39:31+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:39:31 2019 71.85.118.117:59087 VERIFY OK: depth=0, /CN=smiley'
+2019-05-09T22:39:31+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:39:31 2019 71.85.118.117:59087 peer info: IV_GUI_VER=ovpnmi_1.0.0'
+2019-05-09T22:39:31+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:39:31 2019 71.85.118.117:59087 peer info: IV_VER=3.git:master'
+2019-05-09T22:39:31+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:39:31 2019 71.85.118.117:59087 peer info: IV_PLAT=mac'
+2019-05-09T22:39:31+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:39:31 2019 71.85.118.117:59087 peer info: IV_NCP=2'
+2019-05-09T22:39:31+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:39:31 2019 71.85.118.117:59087 peer info: IV_TCPNL=1'
+2019-05-09T22:39:31+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:39:31 2019 71.85.118.117:59087 peer info: IV_PROTO=2'
+2019-05-09T22:39:31+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:39:31 2019 71.85.118.117:59087 peer info: IV_LZO=1'
+2019-05-09T22:39:31+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:39:31 2019 71.85.118.117:59087 peer info: IV_LZO_SWAP=1'
+2019-05-09T22:39:31+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:39:31 2019 71.85.118.117:59087 peer info: IV_LZ4=1'
+2019-05-09T22:39:31+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:39:31 2019 71.85.118.117:59087 peer info: IV_LZ4v2=1'
+2019-05-09T22:39:31+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:39:31 2019 71.85.118.117:59087 peer info: IV_COMP_STUB=1'
+2019-05-09T22:39:31+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:39:31 2019 71.85.118.117:59087 peer info: IV_COMP_STUBv2=1'
+2019-05-09T22:39:31+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:39:31 2019 71.85.118.117:59087 peer info: UV_ASCLI_VER=2.6.0.103'
+2019-05-09T22:39:31+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:39:31 2019 71.85.118.117:59087 peer info: UV_PLAT_REL=18.5.0'
+2019-05-09T22:39:31+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:39:31 2019 71.85.118.117:59087 peer info: IV_HWADDR=38:f9:d3:41:12:2e'
+2019-05-09T22:39:31+00:00 openvpnas2 openvpnas: [-] AUTH SUCCESS {'status': 0, 'session_id': '[redacted]', 'reason': 'SESSION_ID auth succeeded', 'serial_list': [], 'user': 'smiley', 'proplist': {u'prop_deny': u'false', u'prop_autogenerate': u'true'}, 'common_name': u'smiley', 'serial': '4'} cli=u'mac'/u'3.git:master'
+2019-05-09T22:39:31+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: "Thu May  9 22:39:31 2019 MANAGEMENT: CMD 'client-auth 25 0'"
+2019-05-09T22:39:31+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:39:31 2019 71.85.118.117:59087 Control Channel: TLSv1.2, cipher TLSv1/SSLv3 ECDHE-RSA-AES256-GCM-SHA384, 2048 bit RSA'
+2019-05-09T22:39:31+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:39:31 2019 71.85.118.117:59087 [smiley] Peer Connection Initiated with [AF_INET]71.85.118.117:59087'
+2019-05-09T22:39:31+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:39:31 2019 smiley/71.85.118.117:59087 OPTIONS IMPORT: compression parms modified'
+2019-05-09T22:39:31+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:39:31 2019 smiley/71.85.118.117:59087 MULTI: Learn: 172.27.232.24 -> smiley/71.85.118.117:59087'
+2019-05-09T22:39:31+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: 'Thu May  9 22:39:31 2019 smiley/71.85.118.117:59087 MULTI: primary virtual IP for smiley/71.85.118.117:59087: 172.27.232.24'
+2019-05-09T22:39:31+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: "Thu May  9 22:39:31 2019 smiley/71.85.118.117:59087 SENT CONTROL [smiley]: 'PUSH_REPLY,explicit-exit-notify,topology subnet,route-delay 5 30,dhcp-pre-release,dhcp-renew,dhcp-release,route-metric 101,ping 12,ping-restart 50,auth-tokenSESS_ID,compress stub-v2,redirect-private def1,redirect-private bypass-dhcp,redirect-private autolocal,redirect-private bypass-dns,route-gateway 172.27.232.1,route 172.27.224.0 255.255.240.0,route 10.1.0.0 255.255.0.0,block-ipv6,ifconfig 172.27.232.24 255.255.248.0,peer-id 0,cipher AES-256-GCM' (status=1)"
+2019-05-09T22:39:31+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: "Thu May  9 22:39:31 2019 smiley/71.85.118.117:59087 Data Channel: using negotiated cipher 'AES-256-GCM'"
+2019-05-09T22:39:31+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: "Thu May  9 22:39:31 2019 smiley/71.85.118.117:59087 Outgoing Data Channel: Cipher 'AES-256-GCM' initialized with 256 bit key"
+2019-05-09T22:39:31+00:00 openvpnas2 openvpnas: [-] OVPN 1 OUT: "Thu May  9 22:39:31 2019 smiley/71.85.118.117:59087 Incoming Data Channel: Cipher 'AES-256-GCM' initialized with 256 bit key"

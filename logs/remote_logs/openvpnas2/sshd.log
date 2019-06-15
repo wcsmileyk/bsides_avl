@@ -12,6 +12,18 @@
 2019-05-09T04:28:24+00:00 openvpnas2 sshd[7779]: Connection closed by authenticating user root 101.227.249.121 port 60049 [preauth]
 2019-05-09T04:41:55+00:00 openvpnas2 sshd[7781]: Connection closed by 101.227.249.121 port 51547 [preauth]
 2019-05-09T04:55:31+00:00 openvpnas2 sshd[7814]: Connection closed by 101.227.249.121 port 42768 [preauth]
+2019-05-09T02:37:52+00:00 slacker sshd[21487]: Failed password for root from 192.168.20.185 port 1045 ssh2
+2019-05-09T04:29:12+00:00 slacker sshd[21487]: Failed password for root from 192.168.20.185 port 1045 ssh2
+2019-05-09T04:30:12+00:00 slacker sshd[21487]: Failed password for root from 192.168.20.185 port 1045 ssh2
+2019-05-09T04:35:12+00:00 slacker sshd[21487]: Failed password for root from 192.168.20.185 port 1045 ssh2
+2019-05-09T09:36:12+00:00 slacker sshd[21487]: Failed password for root from 192.168.20.185 port 1045 ssh2
+2019-05-09T09:36:12+00:00 slacker sshd[21487]: Failed password for root from 192.168.20.185 port 1045 ssh2
+2019-05-09T09:38:12+00:00 slacker sshd[21487]: Failed password for root from 192.168.20.185 port 1045 ssh2
+2019-05-09T09:39:12+00:00 slacker sshd[21487]: Failed password for root from 192.168.20.185 port 1045 ssh2
+2019-05-09T09:42:12+00:00 slacker sshd[21487]: Failed password for root from 192.168.20.185 port 1045 ssh2
+2019-05-09T09:49:12+00:00 slacker sshd[21487]: Failed password for root from 192.168.20.185 port 1045 ssh2
+2019-05-09T09:50:12+00:00 slacker sshd[21487]: Failed password for root from 192.168.20.185 port 1045 ssh2
+2019-05-09T09:42:12+00:00 slacker sshd[21487]: Failed password for root from 192.168.20.185 port 1045 ssh2
 2019-05-09T05:08:56+00:00 openvpnas2 sshd[7817]: Connection closed by authenticating user root 101.227.249.121 port 39242 [preauth]
 2019-05-09T05:22:33+00:00 openvpnas2 sshd[7853]: Connection closed by authenticating user root 101.227.249.121 port 35555 [preauth]
 2019-05-09T05:36:05+00:00 openvpnas2 sshd[7858]: Invalid user butter from 101.227.249.121 port 47815
@@ -19,7 +31,7 @@
 2019-05-09T05:49:59+00:00 openvpnas2 sshd[7891]: Connection closed by 101.227.249.121 port 35355 [preauth]
 2019-05-09T06:13:20+00:00 openvpnas2 sshd[7894]: Connection closed by 101.227.249.121 port 57870 [preauth]
 2019-05-09T06:26:52+00:00 openvpnas2 sshd[8075]: Connection closed by 101.227.249.121 port 40172 [preauth]
-2019-05-09T06:40:16+00:00 openvpnas2 sshd[8077]: Connection closed by 101.227.249.121 port 60883 [preauth]
+2019-05-09T06:40:16+00:00 slacker sshd[8077]: Connection closed by 101.227.249.121 port 60883 [preauth]
 2019-05-09T07:05:13+00:00 openvpnas2 sshd[8214]: Invalid user eric from 101.227.249.121 port 35810
 2019-05-09T07:05:14+00:00 openvpnas2 sshd[8214]: Connection closed by invalid user eric 101.227.249.121 port 35810 [preauth]
 2019-05-09T07:18:55+00:00 openvpnas2 sshd[8249]: Connection closed by 101.227.249.121 port 36062 [preauth]
@@ -30,7 +42,7 @@
 2019-05-09T08:15:32+00:00 openvpnas2 sshd[8290]: Connection closed by 101.227.249.121 port 53777 [preauth]
 2019-05-09T08:29:19+00:00 openvpnas2 sshd[8327]: Invalid user node from 101.227.249.121 port 34086
 2019-05-09T08:29:19+00:00 openvpnas2 sshd[8327]: Connection closed by invalid user node 101.227.249.121 port 34086 [preauth]
-2019-05-09T08:43:16+00:00 openvpnas2 sshd[8329]: Connection closed by 101.227.249.121 port 34039 [preauth]
+2019-05-09T08:43:16+00:00 slacker sshd[8329]: Connection closed by 101.227.249.121 port 34039 [preauth]
 2019-05-09T08:57:00+00:00 openvpnas2 sshd[8361]: Invalid user elastic from 101.227.249.121 port 52335
 2019-05-09T08:57:00+00:00 openvpnas2 sshd[8361]: Connection closed by invalid user elastic 101.227.249.121 port 52335 [preauth]
 2019-05-09T09:10:56+00:00 openvpnas2 sshd[8363]: Connection closed by 101.227.249.121 port 52789 [preauth]
@@ -56,10 +68,10 @@
 2019-05-09T11:59:35+00:00 openvpnas2 sshd[8594]: Invalid user pi from 24.221.19.57 port 43078
 2019-05-09T11:59:35+00:00 openvpnas2 sshd[8593]: Connection closed by invalid user pi 24.221.19.57 port 43080 [preauth]
 2019-05-09T11:59:35+00:00 openvpnas2 sshd[8594]: Connection closed by invalid user pi 24.221.19.57 port 43078 [preauth]
-2019-05-09T12:02:53+00:00 openvpnas2 sshd[8597]: Did not receive identification string from 162.243.144.116 port 59388
-2019-05-09T12:03:32+00:00 openvpnas2 sshd[8598]: Did not receive identification string from 192.3.130.170 port 56304
-2019-05-09T12:11:38+00:00 openvpnas2 sshd[8599]: Connection closed by 101.227.249.121 port 35550 [preauth]
-2019-05-09T12:25:41+00:00 openvpnas2 sshd[8634]: Connection closed by 101.227.249.121 port 43372 [preauth]
+2019-05-09T12:02:53+00:00 slacker sshd[8597]: Did not receive identification string from 162.243.144.116 port 59388
+2019-05-09T12:03:32+00:00 slacker sshd[8598]: Did not receive identification string from 192.3.130.170 port 56304
+2019-05-09T12:11:38+00:00 slacker sshd[8599]: Connection closed by 101.227.249.121 port 35550 [preauth]
+2019-05-09T12:25:41+00:00 slacker sshd[8634]: Connection closed by 101.227.249.121 port 43372 [preauth]
 2019-05-09T12:36:21+00:00 openvpnas2 sshd[8636]: Bad protocol version identification 'GET /login.html HTTP/1.1' from 107.170.198.109 port 50200
 2019-05-09T12:45:38+00:00 openvpnas2 sshd[8637]: Connection closed by 101.227.249.121 port 41027 [preauth]
 2019-05-09T12:59:45+00:00 openvpnas2 sshd[8670]: Connection closed by 101.227.249.121 port 55256 [preauth]
@@ -79,9 +91,9 @@
 2019-05-09T14:52:07+00:00 openvpnas2 sshd[9160]: Connection closed by invalid user oracle 101.227.249.121 port 60284 [preauth]
 2019-05-09T15:06:06+00:00 openvpnas2 sshd[9163]: Connection closed by 101.227.249.121 port 60325 [preauth]
 2019-05-09T15:10:40+00:00 openvpnas2 sshd[9165]: Bad protocol version identification 'hi' from 93.158.114.68 port 42387
-2019-05-09T15:20:12+00:00 openvpnas2 sshd[9200]: Invalid user oracle from 101.227.249.121 port 48581
-2019-05-09T15:20:12+00:00 openvpnas2 sshd[9200]: Connection closed by invalid user oracle 101.227.249.121 port 48581 [preauth]
-2019-05-09T15:34:38+00:00 openvpnas2 sshd[9203]: Connection closed by 101.227.249.121 port 34332 [preauth]
+2019-05-09T15:20:12+00:00 slacker sshd[9200]: Invalid user oracle from 101.227.249.121 port 48581
+2019-05-09T15:20:12+00:00 slacker sshd[9200]: Connection closed by invalid user oracle 101.227.249.121 port 48581 [preauth]
+2019-05-09T15:34:38+00:00 slacker sshd[9203]: Connection closed by 101.227.249.121 port 34332 [preauth]
 2019-05-09T15:49:10+00:00 openvpnas2 sshd[9235]: Connection closed by 101.227.249.121 port 46769 [preauth]
 2019-05-09T16:03:22+00:00 openvpnas2 sshd[9237]: Connection closed by 101.227.249.121 port 43652 [preauth]
 2019-05-09T16:17:47+00:00 openvpnas2 sshd[9271]: Connection closed by 101.227.249.121 port 54535 [preauth]
@@ -91,7 +103,7 @@
 2019-05-09T16:43:50+00:00 openvpnas2 sshd[9275]: Connection closed by invalid user admin 197.35.230.226 port 35038 [preauth]
 2019-05-09T16:46:12+00:00 openvpnas2 sshd[9308]: Invalid user jenkins from 101.227.249.121 port 59171
 2019-05-09T16:46:12+00:00 openvpnas2 sshd[9308]: Connection closed by invalid user jenkins 101.227.249.121 port 59171 [preauth]
-2019-05-09T17:00:30+00:00 openvpnas2 sshd[9310]: Connection closed by 101.227.249.121 port 37718 [preauth]
+2019-05-09T17:00:30+00:00 slacker sshd[9310]: Connection closed by 101.227.249.121 port 37718 [preauth]
 2019-05-09T17:14:42+00:00 openvpnas2 sshd[9312]: Connection closed by 101.227.249.121 port 44353 [preauth]
 2019-05-09T17:28:53+00:00 openvpnas2 sshd[9348]: Invalid user test from 101.227.249.121 port 35395
 2019-05-09T17:28:53+00:00 openvpnas2 sshd[9348]: Connection closed by invalid user test 101.227.249.121 port 35395 [preauth]
@@ -102,8 +114,26 @@
 2019-05-09T18:26:02+00:00 openvpnas2 sshd[9421]: Connection closed by invalid user test4 101.227.249.121 port 41195 [preauth]
 2019-05-09T18:40:40+00:00 openvpnas2 sshd[9445]: Did not receive identification string from 101.227.249.121 port 34307
 2019-05-09T18:47:38+00:00 openvpnas2 sshd[9477]: Did not receive identification string from 141.98.81.81 port 51740
+2019-05-09T02:26:15.552040+00:00 ip-10-1-1-176 sshd[3764]: Accepted publickey for ubuntu from 10.1.1.133 port 52286 ssh2: RSA SHA256:8v85gF+YemUUyRXl6qbbEaS/NxZYIMc8h5OCDJIwgKs
+2019-05-09T02:26:15.554176+00:00 ip-10-1-1-176 sshd[3764]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+2019-05-09T04:12:24.046001+00:00 ip-10-1-1-176 sshd[3095]: pam_unix(sshd:session): session closed for user ubuntu
+2019-05-09T04:13:19.342803+00:00 ip-10-1-1-176 sshd[3415]: pam_unix(sshd:session): session closed for user ubuntu
+2019-05-09T04:20:51.950068+00:00 ip-10-1-1-176 sshd[3252]: pam_unix(sshd:session): session closed for user ubuntu
+2019-05-09T04:36:58.606287+00:00 ip-10-1-1-176 sshd[3541]: pam_unix(sshd:session): session closed for user ubuntu
+2019-05-09T04:38:02.094158+00:00 ip-10-1-1-176 sshd[3764]: pam_unix(sshd:session): session closed for user ubuntu
+2019-05-09T22:00:02.862762+00:00 ip-10-1-1-176 sshd[15534]: Accepted publickey for ubuntu from 10.1.1.133 port 54436 ssh2: RSA SHA256:8v85gF+YemUUyRXl6qbbEaS/NxZYIMc8h5OCDJIwgKs
+2019-05-09T22:00:02.863978+00:00 ip-10-1-1-176 sshd[15534]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+2019-05-09T22:26:53.641003+00:00 ip-10-1-1-176 sshd[15676]: Accepted publickey for ubuntu from 10.1.1.133 port 54681 ssh2: RSA SHA256:8v85gF+YemUUyRXl6qbbEaS/NxZYIMc8h5OCDJIwgKs
+2019-05-09T22:26:53.643255+00:00 ip-10-1-1-176 sshd[15676]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+2019-05-09T22:36:03.055719+00:00 ip-10-1-1-176 sshd[15826]: Accepted publickey for ubuntu from 10.1.1.133 port 55055 ssh2: RSA SHA256:8v85gF+YemUUyRXl6qbbEaS/NxZYIMc8h5OCDJIwgKs
+2019-05-09T22:36:03.056969+00:00 ip-10-1-1-176 sshd[15826]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
+2019-05-09T22:38:33.885478+00:00 ip-10-1-1-176 sshd[15908]: Received disconnect from 10.1.1.133 port 55055:11: disconnected by user
+2019-05-09T22:38:33.887786+00:00 ip-10-1-1-176 sshd[15908]: Disconnected from user ubuntu 10.1.1.133 port 55055
+2019-05-09T22:38:33.888019+00:00 ip-10-1-1-176 sshd[15826]: pam_unix(sshd:session): session closed for user ubuntu
+2019-05-09T22:40:16.481361+00:00 ip-10-1-1-176 sshd[15980]: Accepted publickey for ubuntu from 10.1.1.133 port 55145 ssh2: RSA SHA256:8v85gF+YemUUyRXl6qbbEaS/NxZYIMc8h5OCDJIwgKs
+2019-05-09T22:40:16.483371+00:00 ip-10-1-1-176 sshd[15980]: pam_unix(sshd:session): session opened for user ubuntu by (uid=0)
 2019-05-09T18:55:02+00:00 openvpnas2 sshd[9479]: Connection closed by 101.227.249.121 port 39485 [preauth]
-2019-05-09T19:09:19+00:00 openvpnas2 sshd[9485]: Connection closed by 101.227.249.121 port 39646 [preauth]
+2019-05-09T19:09:19+00:00 slacker sshd[9485]: Connection closed by 101.227.249.121 port 39646 [preauth]
 2019-05-09T19:23:33+00:00 openvpnas2 sshd[9521]: Connection closed by 101.227.249.121 port 59629 [preauth]
 2019-05-09T19:37:49+00:00 openvpnas2 sshd[9524]: Invalid user jason from 101.227.249.121 port 55280
 2019-05-09T19:37:49+00:00 openvpnas2 sshd[9524]: Connection closed by invalid user jason 101.227.249.121 port 55280 [preauth]
@@ -123,11 +153,11 @@
 2019-05-09T21:03:59+00:00 openvpnas2 sshd[9648]: Connection closed by 101.227.249.121 port 41044 [preauth]
 2019-05-09T21:18:46+00:00 openvpnas2 sshd[9684]: Connection closed by 101.227.249.121 port 53072 [preauth]
 2019-05-09T21:33:12+00:00 openvpnas2 sshd[9686]: Connection closed by 101.227.249.121 port 52200 [preauth]
-2019-05-09T21:47:31+00:00 openvpnas2 sshd[9719]: Invalid user admin from 101.227.249.121 port 50622
+2019-05-09T21:47:31+00:00 slacker sshd[9719]: Invalid user admin from 101.227.249.121 port 50622
 2019-05-09T21:47:31+00:00 openvpnas2 sshd[9719]: Connection closed by invalid user admin 101.227.249.121 port 50622 [preauth]
 2019-05-09T22:02:04+00:00 openvpnas2 sshd[9722]: Connection closed by 101.227.249.121 port 36717 [preauth]
 2019-05-09T22:16:20+00:00 openvpnas2 sshd[9755]: Invalid user admin from 101.227.249.121 port 52823
 2019-05-09T22:16:21+00:00 openvpnas2 sshd[9755]: Connection closed by invalid user admin 101.227.249.121 port 52823 [preauth]
 2019-05-09T22:26:40+00:00 openvpnas2 sshd[9760]: Did not receive identification string from 209.17.97.122 port 59583
 2019-05-09T22:30:56+00:00 openvpnas2 sshd[9761]: Invalid user admin from 101.227.249.121 port 39186
-2019-05-09T22:30:56+00:00 openvpnas2 sshd[9761]: Connection closed by invalid user admin 101.227.249.121 port 39186 [preauth]
+2019-05-09T22:30:56+00:00 slacker sshd[9761]: Connection closed by invalid user admin 101.227.249.121 port 39186 [preauth]
