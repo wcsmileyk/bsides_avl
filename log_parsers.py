@@ -102,6 +102,7 @@ def build_json(fp):
                 events.append(event_block)
                 event_block = {}
                 count = 0
+        events.append(event_block)
     return events
 
 
@@ -126,8 +127,8 @@ def main(log_file):
 
 if __name__ == '__main__':
     log_dir = os.path.join(BASE_DIR, 'logs')
-    log_files = ['firewall.log',
-                 'openvpnas.log',]
+    log_files = ['openvpnas.log',
+                 'firewall.log',]
 
     log_paths = [os.path.join(log_dir, f) for f in log_files]
 

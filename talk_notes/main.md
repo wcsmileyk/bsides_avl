@@ -58,3 +58,13 @@ I've used the following architecture several times to mac an ad-hoc SIEM-like to
 	- Consider logical ways to group data that works for what you'll be doing. In our case we only have a few log sources, so grouping by them will work at first.
 
 	- Note on Windows. There is an entire discussion that can be had around Windows logging and automation for that. Having worked for a SIEM vendor and with several SIEM vendors, even most vendors really struggle with it for a variety of reasons. When working with python and the pywin library (unless you want to write a ton of byte code, one of the only ways to work with WinEvents in Python), encoding is going to be a big struggle, so will the pywin library itself (not incredibly well documented, for all it does). But it's definitely possible. It's just more time consuming, so put that in the con bucket when considering whether or not to build tools around it. I opted to stix to standard syslog for this to not eat up all my prep time on Windows parsing. 
+	
+	- Note on Rules/Analysis. I wrote all these with standard python. But if you do choose to do any automation around data sets like logs or flows, and you store them into comparable data structures like json, look into tools built for data analytics like Pandas, numpy, etc. They will make a lot of this a lot easier after getting over the initial learning curve. 
+
+#### Rules
+
+The first rule we have is very simple, but a standard in most SIEMs. And a really good simple indicator that someone has a compromised account. Though not perfect by any means. For several reasons. The basics of it are the concept of doing a simple lookup to a public API for each remote IP used's country code. If the same user has been seen with multiple country codes in less than an hour (customizable obviously) it flags all the events involved. We would definitely want to spend some tine tuning this down, as it currently creates a lot of events that have overlap do to my flawed logic. But given a bit of time and refactoring you could have this tuned pretty easily.
+
+### Indexes
+
+So I wrote the first indexing tool for just the OVPN events. I wrote it terribly, lots of gross specifics and not very functional. The one I'm showing you is not the first version of this I ever wrote. That was several years ago for a specific need. I wrote this first draft trying to channel that first writing as much as possible, and I think it's probably pretty close. It's exactly what I'd still do today if I was just trying to get something off the ground and working. It's terrible code. But it does what we need it to, and we can clean it up later. Like when we go write our next rule and realize we also will probably want some indexes there.
