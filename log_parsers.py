@@ -39,6 +39,10 @@ def parse_fw(fw_message):
 
 
 def parse_ovpn(ovpn_message):
+    # For now let's just get the IP assignment, that is post success and cleans things up a bit. This can be expanded later
+    if 'primary virtual IP' not in ovpn_message:
+        return None
+
     user_pattern = re.compile('(\w+)/((\d{1,3}\.){3}\d{1,3})')
     date_pattern = re.compile('(\w{3}\s+\w{3}\s+\d{1,2}\s+(\d{1,2}:){2}\d{1,2}\s+\d{4})\s')
 
