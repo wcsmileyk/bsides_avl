@@ -1,7 +1,6 @@
 from dateutil import parser
 import re
 import os
-import sys
 import hashlib
 import json
 import datetime

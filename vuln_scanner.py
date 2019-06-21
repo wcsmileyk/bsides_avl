@@ -40,5 +40,3 @@ if __name__ == '__main__':
         t.join()
 
     print('Completed Scan')
-
-
