@@ -130,12 +130,37 @@ def get_event(event_id):
             return events[event_id]
 
 
+def alienvault_ip_lookup(ip_addr):
+    api_token = os.environ.get('ALIENTVAULT')
+    url = f'https://otx.alienvault.com:443/api/v1/indicators/IPv4/{ip_addr}'
+    headers = {'X-OTX-API-KEY': api_token, 'Accept': 'application/json', 'Content-Type': 'application/json'}
+
+    r = requests.get(url, headers=headers)
+
+    if r.status_code == 200:
+        threat = r.json()
+    else:
+        return None
+
+    pulse_info = threat.get('pulse_info')
+    if pulse_info:
+        pulses = pulse_info.get('pulses')
+        tags = [tag for pulse in pulses for tag in pulse.get('tags')]
+    else:
+        tags = None
+
+    desc = threat['base_indicator'].get('description')
+    reputation = threat.get('reputation')
+
+    return {'description': desc, 'tags': tags, 'reputation': reputation}
+
+
 if __name__ == '__main__':
     indexes = build_indexes()
 
     poss_compromises = same_user_different_geo()
 
-    headers = 'time | user | country code | remote ip'
+    headers = 'time | user | country code | remote ip | alienvault desc | alienvault tags | alienvault reputation'
     print(headers)
     print ('-' * len(headers))
 
@@ -146,7 +171,10 @@ if __name__ == '__main__':
             user = full_event['remote_user']
             ip = full_event['remote_ip']
             country_code = indexes.ip2country[ip]
-            print(f'{event_time} | {user} | {country_code} | {ip}')
+
+            alv_rep = alienvault_ip_lookup(ip)
+
+            print(f'{event_time} | {user} | {country_code} | {ip} | {alv_rep["description"]} | {alv_rep["tags"]} | {alv_rep["reputation"]}')
 
 
 
