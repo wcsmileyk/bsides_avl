@@ -8,7 +8,7 @@ import datetime
 BASE_DIR = os.path.abspath(os.path.dirname(__file__))
 
 
-def parse_syslog(log_message, header_fields=4, deliminator=' '):
+def parse_syslog(log_message):
 
     dt, log_source, log_app, message_body = log_message.split(' ', 3)
     log_app_map = {'sshd': 'ssh', 'openvpnas': 'vpn', 'kernel': 'firewall'}
@@ -110,6 +110,7 @@ def build_json(fp):
 
 
 def write_json(json_dir, events):
+    # This method is simply giving each new file a dynamic name using seconds to ensure it's unique and writing the json to a file
     dt = datetime.datetime.now()
     seconds = (dt.hour + dt.minute) * 60 + dt.second
     file_name = f"{dt.strftime('%Y%m%d')}_{seconds}.{dt.microsecond}"
@@ -121,14 +122,18 @@ def write_json(json_dir, events):
 
 def main(log_file):
     json_dir = os.path.join(BASE_DIR, 'json')
+
+    # Helper method to ensure that the directory he's storing json in exists
     make_json_dir(json_dir)
 
+    # Here he's grabbing events in file sized blocks (so he doesn't have GBs of data in memory) and writing them to json files. This creates a very simple database
     events = build_json(log_file)
     for event_block in events:
         write_json(json_dir, event_block)
 
 
 if __name__ == '__main__':
+    # Billy hard coded which log files he wants to parse for now.
     log_dir = os.path.join(BASE_DIR, 'logs')
     log_files = ['openvpnas.log',
                  'firewall.log',]
